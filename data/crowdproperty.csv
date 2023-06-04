@@ -1,0 +1,45 @@
+Project,Amount,Received,Interest Rate,Loan Start,Loan End,Status,Expected Interest,Interest Paid,Auto Invest,Bank Reference,Description,Gross APR,Net APR,Blended LTV,Loan Parts in Loan
+1-3 Crosby Road South,50,50,7%,19/10/2022,18/10/2023,Live,3.494794521,1.74,1,9673LIVERPOO,1-3 Crosby Road South,0.1,0.07,0.7,1
+30-31 Laurie Grove,50,50,7.20%,16/11/2022,15/11/2023,Live,3.6,0,1,10700LONDON,"30-31 Laurie Grove, New Cross, London, SE14 6NH",0.1,0.072,0.6691,1
+45-51 Mersey View,50,50,7.50%,21/11/2022,20/11/2023,Live,3.748630137,1.55,1,10670LIVERPO,"45-51 Mersey View, Brighton le Sands, Liverpool, L22 6QA - Phase 1",0.105,0.075,0.7,1
+St. Dunstans Avenue,50,50,7%,12/09/2022,07/12/2023,Live,4.334246575,0,1,9481LONDON,"57 St. Dunstans Avenue, East Acton, London, W3 6QH - Phase 1",0.09,0.07,0.7,1
+St. Dunstans Avenue,50,50,7%,25/10/2022,07/12/2023,Live,3.921917808,0,1,10054LONDON,"57 St. Dunstans Avenue, East Acton, London, W3 6QH - Phase 2",0.09,0.07,0.7,1
+Bolstone Court Farm,50,50,8.10%,20/04/2023,24/01/2024,Live,3.106849315,0,1,6534HEREFORD,"Bolstone Court Farm, Bolstone, Herefordshire, HR2 6TX - Phase 3",0.1,0.081,0.648,1
+Brookhouse Farm,50,50,7.70%,22/09/2022,08/03/2024,Live,5.63260274,0,1,9017PRESTON,Brookhouse Farm Phase 1,0.105,0.077,0.635,2
+Brookhouse Farm,50,50,7.70%,20/10/2022,08/03/2024,Live,5.337260274,0,1,9018PRESTON,Brookhouse Farm Phase 2,0.105,0.077,0.635,2
+Castle Drive,50,50,7.30%,23/09/2022,22/12/2023,Live,4.533333333,2.1,1,5820REIGATE,Castle Drive,0.095,0.073,0.7,1
+Development site Holly Farm,50,50,7.50%,12/10/2022,01/08/2022,Live,0.9375,0,1,6206HALSALL,Development site Holly Farm,0.095,0.075,0.57,1
+Enfield Avenue,50,50,7.70%,28/09/2022,08/11/2023,Live,4.293013699,0,1,9502GRIMSBY,Enfield Avenue,0.1,0.077,0.7,1
+Flat 4,50,50,7.40%,30/09/2022,29/06/2023,Live,2.798493151,2.17,1,7063MANCHEST,Flat 4 Barlow Moor,0.1,0.074,0.7,1
+Former radio station,50,50,7.50%,29/09/2022,15/02/2024,Live,5.188356164,0,1,7185SOMERTON,Former radio station,0.095,0.075,0.65,1
+Gainsborough Riverside Gateway,50,50,7.60%,29/09/2022,12/01/2023,Live,1.103561644,0,1,6110GAINSBOR,Gainsborough Riverside Gateway,0.095,0.076,0.49,1
+Hazelwood,50,50,7.10%,14/10/2022,30/12/2023,Live,4.308630137,0,1,9289WALSALL,Hazelwood,0.095,0.071,0.512,1
+Home Farm,50,50,7.20%,23/09/2022,22/12/2023,Live,4.506575342,2.1,1,10195LUTTERW,Home Farm Phase 1,0.1,0.072,0.7,3
+Home Farm,50,50,7.20%,13/10/2022,22/12/2023,Live,4.300273973,0,1,10664LUTTERW,Home Farm Phase 2,0.1,0.072,0.7,3
+Home Farm,50,50,7.20%,15/12/2022,22/12/2023,Live,3.67890411,0,1,10667LUTTERW,Home Farm Phase 3,0.1,0.072,0.7,3
+Hope All Saints Garden Centre,50,50,7.20%,20/10/2022,13/10/2023,Live,3.540821918,0,1,9087NEWROMN,"Hope All Saints Garden Centre, Ashford Road, New Romney, TN28 8TH - Phase 5-9087NEWROMN",0.095,0.072,0.667,1
+Land Adjacent Pendre,50,50,7.80%,27/04/2023,30/12/2023,Live,2.649863014,0,1,9695ABERYSTW,"Land Adjacent Pendre, Devils Dridge, Aberystwyth, SY23 4RA - Phase 4",0.095,0.077,0.7,1
+Land Adjacent to Fairlight Terrace,50,50,7.70%,28/09/2022,27/03/2024,Live,5.769726027,0,1,10556NEWROM,Land Adjacent to Fairlight Terrace Phase 1,0.095,0.077,0.6992,3
+Land Adjacent to Fairlight Terrace,50,50,7.70%,10/10/2022,27/03/2024,Live,5.643150685,0,1,10888NEWROM,Land Adjacent to Fairlight Terrace Phase 2,0.095,0.077,0.6992,3
+Land Adjacent to Fairlight Terrace,50,50,7.70%,17/10/2022,27/03/2024,Live,5.569315068,0,1,10889NEWROM,Land Adjacent to Fairlight Terrace Phase 3,0.095,0.077,0.6992,3
+Land at Bush Close,50,50,8.50%,27/04/2023,09/08/2024,Live,5.484246575,0,1,10578ESSEX,"Land at Bush Close, Ilford, Essex, IG2 7NL - Phase 3",0.1,0.085,0.6999,1
+Land at Hopcott Road,25,25,6.90%,07/09/2022,14/03/2023,Paid Back,0.89,0.89,1,10220SOMERSE,Land at Hopcott Road Phase 1,0.1,0.069,0.625,3
+Plots 32-68 and 70-71,50,50,6.90%,29/09/2022,14/03/2023,Paid Back,1.58,1.58,1,10331MINEHEA,Land at Hopcott Road Phase 2,0.1,0.069,0.625,3
+Land at Hopcott Road,50,50,7%,22/09/2022,14/03/2023,Paid Back,1.67,1.67,1,8627MINEHEAD,Land at Hopcott Road Phase 4,0.09,0.07,0.698,3
+Land North Of The Brea Inn,50,50,7.30%,20/10/2022,30/08/2023,Live,3.15,0,1,9317CORNWALL,Land North Of The Brea Inn,0.1,0.073,0.7,1
+Land Off Upper Quarry Road,50,50,7.70%,29/09/2022,31/03/2023,Paid Back,1.45,1.45,1,6478HUDDERSF,Land Off Upper Quarry Road Phase 3,0.1,0.077,0.642,1
+Lodge Farm,50,50,7.20%,31/10/2022,30/10/2023,Live,3.624657534,1.8,1,11068SOLIHUL,"Lodge Farm, Poolhead Lane, Solihull",0.1,0.072,0.75,1
+Phases 1-3 Bridgeview Nurseries,50,50,7%,22/09/2022,16/06/2024,Live,6.079452055,0,1,9782CALSTOCK,"Phases 1-3 Bridgeview Nurseries, Calstock, Cornwall, PL18 9QL - Phase 3",0.1,0.07,0.584,2
+Phases 1-3 Bridgeview Nurseries,50,50,8%,20/04/2023,16/06/2024,Live,4.646575342,0,1,9785CALSTOCK,"Phases 1-3 Bridgeview Nurseries, Calstock, Cornwall, PL18 9QL - Phase 6",0.1,0.08,0.584,2
+Red Lion,50,50,6.80%,03/11/2022,02/05/2024,Live,5.089315068,1.68,1,9192ATHERSTO,"Red Lion, Atherstone Road, Atherstone, CV9 3NB - Phase 1",0.095,0.068,0.384,1
+Roseangle,50,50,7.30%,09/09/2022,08/03/2024,Live,5.15,2.1,1,6032DUNDEE,Roseangle Phase 1,0.0925,0.073,0.7,2
+Roseangle,50,50,7.30%,07/10/2022,08/03/2024,Live,5.19,0,1,7498DUNDEE,Roseangle Phase 2,0.0925,0.073,0.7,2
+Samoya,50,50,7.50%,29/09/2022,04/12/2023,Live,4.438356164,0,1,9604DUNBAR,Samoya,0.1,0.075,0.699,1
+Selcroft Road,50,50,6.90%,13/10/2022,11/08/2023,Live,2.875,0,1,10227LONDON,Selcroft Road,0.095,0.069,0.699,1
+Simplicity,50,50,6.40%,27/10/2022,26/10/2023,Live,2.954383562,1.35,1,9171SHOREHAM,"Simplicity, 51 Old Fort Road, Shoreham by Sea, BN43 5RL - Phase 1-9171SHOREHAM",0.085,0.064,0.477,1
+The Caledonia Pub,50,50,6.50%,14/09/2022,13/09/2023,Live,3.252328767,1.89,1,9429ASHTONU,The Caledonia Pub Phase 1,0.09,0.065,0.7,2
+The Caledonia Pub,50,50,6.50%,31/10/2022,13/09/2023,Live,2.831506849,0,1,10521ASHTON,The Caledonia Pub Phase 2,0.09,0.065,0.7,2
+The Villa,50,50,7.20%,23/09/2022,22/09/2023,Live,3.6,0,1,10298SCARBOR,The Villa Phase 1,0.095,0.072,0.6994,2
+The Villa,50,50,7.20%,14/10/2022,22/09/2023,Live,3.392876712,0,1,10819SCARBOR,The Villa Phase 2,0.095,0.072,0.6994,2
+Warleys Lane,50,50,6.70%,09/09/2022,08/09/2023,Live,3.08890411,1.96,1,10136WESTON-,Warleys Lane,0.095,0.067,0.7,1
+Yorkshire Coast College,50,50,7.60%,08/09/2022,10/09/2023,Live,3.831232877,0,1,8715SCARBORO,Yorkshire Coast College,0.1,0.076,0.615,1
