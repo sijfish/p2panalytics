@@ -1,2 +1,2 @@
-,Int bearing amt,%,Total amt,No loans,Avg loan amt,Avg net AER,Blended LTV,Avg term,Max term,Avg ttm,Max ttm,Non-perform,Long default,Short default,Int default
-2023-08-04,1050.02,1.0,1050.02,112.0,9.375178571428572,0.0799999999999908,0.6509999999999829,23.999999999999982,24.0,23.883048620236515,21.74238119448515,0.1131978438505933,0.0,0.0,118.86
+,Int bearing amt,Non-IB cash,Total amt,No loans,Avg loan amt,Avg net AER,Blended LTV,Avg term,Max term,Avg ttm,Max ttm,Non-perform,Long default,Short default,Int default
+2023-08-09,1050.02,0.0,1050.02,112.0,9.375178571428572,0.07999999999999086,0.6509999999999829,23.999999999999986,24.0,23.718791064388945,21.592846248168197,0.11319784385059332,0.0,0.0,118.86
