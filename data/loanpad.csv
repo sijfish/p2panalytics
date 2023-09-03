@@ -317,6 +317,3 @@ Loan ID,Borrower ID,Security value,Loan amount,Loan to value,Maturity,Your inves
 9475401,8161341,"£1,300,000","£650,000",50.00%,30 Aug 2024,£41.392000,0.79%,Live,2,9475401,1
 9410819,8546029,"£550,000","£275,000",50.00%,23 Aug 2024,£17.512000,0.33%,Live,2,9410819,1
 Cash awaiting investment,-,-,-,-,-,£90.598881,1.72%,-,-,Cash aw,1
-,,,,,,,,,,,
-,,,Weighted Average LTV,45.24%,,,,,,,
-,,,Average LTV,42.00%,,,,,,,
