@@ -1,17 +1,17 @@
 Loan Ref,Company Name,Outstanding Balance,Term Remaining,Interest Rate,Earned Interest,Purchased Interest,Total Interest,Maturity Date,,,Blended LTV,Loan Parts in Loan
-1279,AH2 Ogwen Hall Limited - Drawdown 2,74.94,190 / 486 days,7.40%,4.47,0,4.47,09-Feb-24,View,Unavailable,65,1
-1614,Airshack Projects 359 Limited (2) – Drawdown 1,100,232 / 242 days,8.00%,0.21,0,0.21,22-Mar-24,View,Sell Loan,62.9,1
-1571,Airshack Projects Ltd (2) – Drawdown 1,100,48 / 92 days,8.00%,0.93,0,0.93,20-Sep-23,View,Sell Loan,66.7,1
-1265,Apus (Grendon) Ltd - Drawdown 3,100,134 / 441 days,7.76%,6.49,0,6.49,15-Dec-23,View,Sell Loan,53.5,2
-1308,Apus (Grendon) Ltd - Drawdown 4,100,134 / 408 days,7.76%,5.77,0,5.77,15-Dec-23,View,Sell Loan,53.5,2
-1309,Aspire Designer Homes (Medway) Ltd – Drawdown 4,250,146 / 419 days,7.23%,13.4,0,13.4,27-Dec-23,View,Sell Loan,64.7,1
-1315,Gallypot Woods Development Limited - Drawdown 6,200,302 / 567 days,7.66%,11.01,0,11.01,31-May-24,View,Sell Loan,62.2,1
-1542,Hawfinch Homes Limited – Drawdown 8,100,251 / 329 days,7.15%,1.49,0,1.49,10-Apr-24,View,Sell Loan,64.3,1
-1307,MMS Developments Ltd – Drawdown 6,200,4 / 278 days,6.86%,10.21,0,10.21,07-Aug-23,View,Sell Loan,66.1,1
-1583,Rainworth Developments 2021 Limited (3) – Drawdown 1,200,232 / 274 days,8.00%,1.78,0,1.78,22-Mar-24,View,Sell Loan,75,1
-1378,Skylark Build Ltd - Drawdown 9,150,546 / 743 days,7.12%,5.68,0,5.68,30-Jan-25,View,Sell Loan,64.7,1
-1579,SNV Construction Limited (2) – Drawdown 1,250,232 / 274 days,8.00%,2.22,0,2.22,22-Mar-24,View,Sell Loan,65,1
-1273,The Old Grain Store (Maidstone) Limited – Drawdown 4,100,119 / 415 days,7.39%,5.95,0,5.95,30-Nov-23,View,Sell Loan,59.9,2
-1312,The Old Grain Store (Maidstone) Limited – Drawdown 5,150,119 / 385 days,7.39%,8,0,8,30-Nov-23,View,Sell Loan,59.9,2
-1282,Wold Top Developments Limited - Drawdown 4,150,165 / 458 days,6.96%,8.33,0,8.33,15-Jan-24,View,Sell Loan,62.7,1
-1318,Wren Homes and Developments Ltd – Drawdown 3,250,57 / 322 days,6.96%,12.52,0,12.52,29-Sep-23,View,Sell Loan,64.6,1
+1614,Airshack Projects 359 Limited (2) – Drawdown 1,100,201 / 242 days,8.00%,0.87,0,0.87,22-Mar-24,View,Sell Loan,62.9,1
+1571,Airshack Projects Ltd (2) – Drawdown 1,100,17 / 92 days,8.00%,1.59,0,1.59,20-Sep-23,View,Sell Loan,66.7,1
+1265,Apus (Grendon) Ltd - Drawdown 3,100,103 / 441 days,7.76%,7.17,0,7.17,15-Dec-23,View,Sell Loan,53.5,2
+1308,Apus (Grendon) Ltd - Drawdown 4,100,103 / 408 days,7.76%,6.45,0,6.45,15-Dec-23,View,Sell Loan,53.5,2
+1309,Aspire Designer Homes (Medway) Ltd – Drawdown 4,250,115 / 419 days,7.23%,14.96,0,14.96,27-Dec-23,View,Sell Loan,64.7,1
+1315,Gallypot Woods Development Limited - Drawdown 6,200,271 / 567 days,7.66%,12.33,0,12.33,31-May-24,View,Sell Loan,62.2,1
+1542,Hawfinch Homes Limited – Drawdown 8,100,220 / 329 days,7.15%,2.09,0,2.09,10-Apr-24,View,Sell Loan,64.3,1
+1307,MMS Developments Ltd – Drawdown 6,173.81,54 / 359 days,6.86%,9.9,0,9.9,27-Oct-23,View,Sell Loan,66.1,1
+1583,Rainworth Developments 2021 Limited (3) – Drawdown 1,200,201 / 274 days,8.00%,3.1,0,3.1,22-Mar-24,View,Sell Loan,75,1
+1634,Skylark Build Ltd - Drawdown 17,89.51,515 / 541 days,7.12%,0.44,0,0.44,30-Jan-25,View,Sell Loan,64.7,2
+1378,Skylark Build Ltd - Drawdown 9,134.26,515 / 743 days,7.12%,5.9,0,5.9,30-Jan-25,View,Sell Loan,64.7,2
+1579,SNV Construction Limited (2) – Drawdown 1,250,201 / 274 days,8.00%,3.88,0,3.88,22-Mar-24,View,Sell Loan,65,1
+1273,The Old Grain Store (Maidstone) Limited – Drawdown 4,100,88 / 415 days,7.39%,6.6,0,6.6,30-Nov-23,View,Sell Loan,59.9,2
+1312,The Old Grain Store (Maidstone) Limited – Drawdown 5,150,88 / 385 days,7.39%,8.96,0,8.96,30-Nov-23,View,Sell Loan,59.9,2
+1282,Wold Top Developments Limited - Drawdown 4,90.08,134 / 458 days,6.96%,5.55,0,5.55,15-Jan-24,View,Sell Loan,62.7,1
+1318,Wren Homes and Developments Ltd – Drawdown 3,250,26 / 322 days,6.96%,14.03,0,14.03,29-Sep-23,View,Sell Loan,64.6,1
