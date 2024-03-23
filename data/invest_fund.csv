@@ -1,20 +1,23 @@
-Loan Ref,Company Name,Outstanding Balance,Term Remaining,Interest Rate,Earned Interest,Purchased Interest,Total Interest,Maturity Date,,,Blended LTV,Loan Parts in Loan
-1309,Aspire Designer Homes (Medway) Ltd – Drawdown 4,154.65,6 / 419 days,7.23%,12.71,0,12.71,27-Dec-23,View,Unavailable,64.7,1
-1378,Skylark Build Ltd - Drawdown 9,70.72,406 / 743 days,7.12%,4.64,0,4.64,30-Jan-25,View,Unavailable,64.7,2
-1542,Hawfinch Homes Limited – Drawdown 8,40.87,111 / 329 days,7.15%,1.72,0,1.72,10-Apr-24,View,Sell Loan,64.3,1
-1579,SNV Construction Limited (2) – Drawdown 1,204.46,92 / 274 days,8.00%,8,0,8,22-Mar-24,View,Sell Loan,65,1
-1583,Rainworth Developments 2021 Limited (3) – Drawdown 1,200,92 / 274 days,8.00%,7.82,0,7.82,22-Mar-24,View,Sell Loan,75,1
-1614,Airshack Projects 359 Limited (2) – Drawdown 1,100,92 / 242 days,8.00%,3.21,0,3.21,22-Mar-24,View,Sell Loan,62.9,1
-1634,Skylark Build Ltd - Drawdown 17,47.15,406 / 541 days,7.12%,1.22,0,1.22,30-Jan-25,View,Unavailable,64.7,2
-1664,NRP Diggle Ltd (3) – Drawdown 1,150,197 / 302 days,8.25%,3.46,0,3.46,05-Jul-24,View,Sell Loan,70.4,1
-1682,Newfoundland Court Ltd – Drawdown 1,150,482 / 548 days,8.50%,2.23,0,2.23,16-Apr-25,View,Sell Loan,71.5,1
-1687,Beaumaris Road Limited (2) – Drawdown 1,200,189 / 274 days,8.25%,3.73,0,3.73,27-Jun-24,View,Sell Loan,69.2,1
-1688,Gable Construction (Southern) Limited – Drawdown 6,100,260 / 346 days,7.75%,1.78,0,1.78,06-Sep-24,View,Sell Loan,65,1
-1705,Christie Hurst Road Limited - Drawdown 5,100,204 / 276 days,7.60%,1.46,0,1.46,12-Jul-24,View,Sell Loan,71.5,1
-1734,Nash Properties Ltd - Drawdown 3,100,449 / 491 days,8.25%,0.92,0,0.92,14-Mar-25,View,Sell Loan,49.4,1
-1754,The Old Grain Store (Maidstone) Limited (2) – Drawdown 1,250,159 / 182 days,8.25%,1.25,0,1.25,28-May-24,View,Sell Loan,49.4,3
-1755,Skylark Build Ltd (2) – Tranche B - Drawdown 5,100,406 / 429 days,8.50%,0.52,0,0.52,30-Jan-25,View,Sell Loan,74.7,3
-1756,Berriman Developers Limited – Drawdown 3,100,361 / 383 days,8.00%,0.47,0,0.47,16-Dec-24,View,Sell Loan,64.8,3
-1757,SC Surbiton Limited (3) – Drawdown 1,150,344 / 365 days,8.50%,0.71,0,0.71,29-Nov-24,View,Sell Loan,70,1
-1771,Aspire Designer Homes (Medway) Ltd (2) – Drawdown 1,200,183 / 183 days,8.25%,0,0,0,21-Jun-24,View,Sell Loan,53.8,1
-1774,Wold Top Developments Limited (2) - Drawdown 1,150,274 / 275 days,8.25%,0.03,0,0.03,20-Sep-24,View,Sell Loan,66.1,1
+Loan Ref,Company Name,Outstanding Balance,Term Remaining,Interest Rate,Earned Interest,Purchased Interest,Total Interest,Maturity Date,,,Project,Blended LTV,Loan Parts in Loan
+1378,Skylark Build Ltd - Drawdown 9,59.73,313 / 743 days,7.12%,5.04,0,5.04,30-Jan-25,View,Sell Loan,Skylark Build Ltd,64.7,2
+1583,Rainworth Developments 2021 Limited (3) – Drawdown 1,198.13,30 / 305 days,8.00%,11.83,0,11.83,22-Apr-24,View,Sell Loan,Rainworth Developments 2021 Limited ,75,1
+1634,Skylark Build Ltd - Drawdown 17,39.82,313 / 541 days,7.12%,1.75,0,1.75,30-Jan-25,View,Sell Loan,Skylark Build Ltd,64.7,2
+1664,NRP Diggle Ltd (3) – Drawdown 1,150,104 / 302 days,8.25%,6.59,0,6.59,05-Jul-24,View,Sell Loan,NRP Diggle Ltd ,70.4,1
+1682,Newfoundland Court Ltd – Drawdown 1,150,389 / 548 days,8.50%,5.43,0,5.43,16-Apr-25,View,Sell Loan,Newfoundland Court Ltd,71.5,1
+1687,Beaumaris Road Limited (2) – Drawdown 1,200,96 / 274 days,8.25%,7.88,0,7.88,27-Jun-24,View,Sell Loan,Beaumaris Road Limited ,69.2,1
+1688,Gable Construction (Southern) Limited – Drawdown 6,100,167 / 346 days,7.75%,3.73,0,3.73,06-Sep-24,View,Sell Loan,Gable Construction ,65,1
+1705,Christie Hurst Road Limited - Drawdown 5,100,111 / 276 days,7.60%,3.37,0,3.37,12-Jul-24,View,Sell Loan,Christie Hurst Road Limited,71.5,1
+1734,Nash Properties Ltd - Drawdown 3,100,356 / 491 days,8.25%,2.97,0,2.97,14-Mar-25,View,Sell Loan,Nash Properties Ltd,49.4,2
+1754,The Old Grain Store (Maidstone) Limited (2) – Drawdown 1,250,66 / 182 days,8.25%,6.38,0,6.38,28-May-24,View,Sell Loan,The Old Grain Store ,49.4,1
+1755,Skylark Build Ltd (2) – Tranche B - Drawdown 5,100,313 / 429 days,8.50%,2.63,0,2.63,30-Jan-25,View,Sell Loan,Skylark Build Ltd ,74.7,1
+1756,Berriman Developers Limited – Drawdown 3,100,268 / 383 days,8.00%,2.45,0,2.45,16-Dec-24,View,Sell Loan,Berriman Developers Limited,64.8,1
+1757,SC Surbiton Limited (3) – Drawdown 1,150,251 / 365 days,8.50%,3.87,0,3.87,29-Nov-24,View,Sell Loan,SC Surbiton Limited ,70,1
+1771,Aspire Designer Homes (Medway) Ltd (2) – Drawdown 1,86.44,90 / 183 days,8.25%,1.76,0,1.76,21-Jun-24,View,Sell Loan,Aspire Designer Homes ,53.8,1
+1774,Wold Top Developments Limited (2) - Drawdown 1,34.66,181 / 275 days,8.25%,0.71,0,0.71,20-Sep-24,View,Sell Loan,Wold Top Developments Limited ,66.1,1
+1808,Witley Homes (Portway) Limited (2) – Drawdown 6,100,325 / 375 days,8.25%,1.09,0,1.09,11-Feb-25,View,Sell Loan,Witley Homes ,65,2
+1809,Alpine Homes Fruit Market Ltd (2) – Drawdown 11,100,146 / 193 days,7.85%,0.98,0,0.98,16-Aug-24,View,Sell Loan,Alpine Homes Fruit Market Ltd ,65,1
+1817,Nash Properties Ltd - Drawdown 5,100,356 / 394 days,8.25%,0.83,0,0.83,14-Mar-25,View,Sell Loan,Nash Properties Ltd,49.4,2
+1822,SNV Construction Limited (4) – Drawdown 1,222.17,363 / 393 days,8.00%,1.41,0,1.41,21-Mar-25,View,Sell Loan,SNV Construction Limited ,72.6,1
+1833,Witley Homes (Portway) Limited (2) – Drawdown 7,100,325 / 349 days,8.25%,0.52,0,0.52,11-Feb-25,View,Sell Loan,Witley Homes ,65,2
+1846,Alpine Homes Peterkins Limited – Drawdown 8,100,279 / 294 days,7.75%,0.31,0,0.31,27-Dec-24,View,Sell Loan,Alpine Homes Peterkins Limited,64.7,1
+1851,Tredown Barns Developments Limited (3) – Drawdown 1,100,272 / 273 days,8.00%,0.02,0,0.02,20-Dec-24,View,Sell Loan,Tredown Barns Developments Limited ,69.4,1
