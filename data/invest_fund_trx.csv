@@ -1,7 +1,25 @@
 Date,Transaction Type,Loan,Amount,Balance,Contract,Cash Flow,Date Value
+29/07/2024 11:13:15,I and F fee,Christie Hurst Road Limited (2) – Drawdown 1,-£0.03,£104.54,,,29/07/2024
+29/07/2024 11:13:15,Loan Repayment,Christie Hurst Road Limited (2) – Drawdown 1,£89.06,£104.57,,,29/07/2024
+29/07/2024 11:13:15,Loan Repayment Interest,Christie Hurst Road Limited (2) – Drawdown 1,£0.24,£15.51,,,29/07/2024
+26/07/2024 09:31:01,Auction completion,Honnacotts Meadow Developments Ltd – Drawdown 10,-£100.00,£15.27,,,26/07/2024
+25/07/2024 13:09:36,Auction completion,Denise Holdings UK Ltd (2) – Drawdown 1,-£100.00,£115.27,,,25/07/2024
+17/07/2024 11:12:06,Auction completion,Badminton Developments Limited (2) – Drawdown 4,-£100.00,£215.27,,,17/07/2024
+12/07/2024 12:01:13,Auction completion,Christie Hurst Road Limited (2) – Drawdown 1,-£150.00,£315.27,,,12/07/2024
+12/07/2024 09:50:32,I and F fee,Christie Hurst Road Limited - Drawdown 5,-£0.59,£465.27,,,12/07/2024
+12/07/2024 09:50:32,Loan Repayment,Christie Hurst Road Limited - Drawdown 5,£100.00,£465.86,,,12/07/2024
+12/07/2024 09:50:32,Loan Repayment Interest,Christie Hurst Road Limited - Drawdown 5,£5.70,£365.86,,,12/07/2024
+08/07/2024 15:52:10,I and F fee,SNV Construction Limited (4) – Drawdown 1,-£0.10,£360.16,,,08/07/2024
+08/07/2024 15:52:10,Loan Repayment,SNV Construction Limited (4) – Drawdown 1,£37.03,£360.26,,,08/07/2024
+08/07/2024 15:52:10,Loan Repayment Interest,SNV Construction Limited (4) – Drawdown 1,£1.09,£323.23,,,08/07/2024
+05/07/2024 15:35:31,I and F fee,Berriman Developers Limited – Drawdown 3,-£0.01,£322.14,,,05/07/2024
+05/07/2024 15:35:31,Loan Repayment,Berriman Developers Limited – Drawdown 3,£4.08,£322.15,,,05/07/2024
+05/07/2024 15:35:31,Loan Repayment Interest,Berriman Developers Limited – Drawdown 3,£0.19,£318.07,,,05/07/2024
+05/07/2024 12:24:20,Auction completion,J. C. Securities Limited (2) – Drawdown 5,-£100.00,£317.88,,,05/07/2024
+01/07/2024 16:06:57,Deposit,,£400.00,£417.88,,,01/07/2024
 28/06/2024 12:40:08,Auction completion,Alpine Homes Fruit Market Ltd (3) – Drawdown 1,-£250.00,£17.88,,,28/06/2024
 28/06/2024 09:54:53,Auction completion,Ironstone Bridge Ltd – Drawdown 2,-£100.00,£267.88,,,28/06/2024
-05/06/2024 12:56:27,Loan part purchase,SC Surbiton Limited (3) – Drawdown 8 Ref: 381403,-£8.23,£144.85,,,05/06/2024
+28/06/2024 09:46:10,Repayment of Purchased Interest,Alpine Homes Fruit Market Ltd (2) – Drawdown 15 Ref: 387945,£0.04,£367.88,,,28/06/2024
 28/06/2024 09:46:10,I and F fee,Alpine Homes Fruit Market Ltd (2) – Drawdown 15,-£0.01,£367.84,,,28/06/2024
 28/06/2024 09:46:10,Loan Repayment,Alpine Homes Fruit Market Ltd (2) – Drawdown 15,£35.60,£367.85,,,28/06/2024
 28/06/2024 09:46:10,Loan Repayment Interest,Alpine Homes Fruit Market Ltd (2) – Drawdown 15,£0.17,£332.25,,,28/06/2024
@@ -22,6 +40,7 @@ Date,Transaction Type,Loan,Amount,Balance,Contract,Cash Flow,Date Value
 12/06/2024 15:18:34,Loan Repayment,Rainworth Developments 2021 Limited (3) – Drawdown 1,£1.76,£46.75,,,12/06/2024
 12/06/2024 15:18:34,Loan Repayment Interest,Rainworth Developments 2021 Limited (3) – Drawdown 1,£0.14,£44.99,,,12/06/2024
 06/06/2024 12:50:09,Auction completion,J. C. Securities Limited (2) – Drawdown 4,-£100.00,£44.85,,,06/06/2024
+05/06/2024 12:56:27,Loan part purchase,SC Surbiton Limited (3) – Drawdown 8 Ref: 381403,-£8.23,£144.85,,,05/06/2024
 05/06/2024 12:49:47,Purchased interest,Alpine Homes Fruit Market Ltd (2) – Drawdown 15 Ref: 380455,-£0.04,£153.08,,,05/06/2024
 05/06/2024 12:49:46,Loan part purchase,Alpine Homes Fruit Market Ltd (2) – Drawdown 15 Ref: 380455,-£35.60,£153.12,,,05/06/2024
 05/06/2024 12:42:44,Purchased interest,NRP Diggle Ltd (5) – Drawdown 1 Ref: 379499,-£0.05,£188.72,,,05/06/2024
@@ -30,7 +49,6 @@ Date,Transaction Type,Loan,Amount,Balance,Contract,Cash Flow,Date Value
 05/06/2024 12:29:06,Loan part purchase,Witley Homes (Portway) Limited (2) – Drawdown 10 Ref: 378583,-£11.13,£192.95,,,05/06/2024
 05/06/2024 09:50:55,Purchased interest,Skylark Build Ltd (2) – Tranche B - Drawdown 11 Ref: 377535,-£0.01,£204.08,,,05/06/2024
 05/06/2024 09:50:55,Loan part purchase,Skylark Build Ltd (2) – Tranche B - Drawdown 11 Ref: 377535,-£10.96,£204.09,,,05/06/2024
-28/06/2024 09:46:10,Repayment of Purchased Interest,Alpine Homes Fruit Market Ltd (2) – Drawdown 15 Ref: 387945,£0.04,£367.88,,,28/06/2024
 04/06/2024 13:12:01,Auction completion,The Old Grain Store (Maidstone) Limited (3) – Drawdown 1,-£250.00,£215.05,,,04/06/2024
 04/06/2024 09:21:38,I and F fee,The Old Grain Store (Maidstone) Limited (2) – Drawdown 1,-£1.01,£465.05,,,04/06/2024
 04/06/2024 09:21:38,Loan Repayment,The Old Grain Store (Maidstone) Limited (2) – Drawdown 1,£250.00,£466.06,,,04/06/2024
