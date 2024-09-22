@@ -1,161 +1,177 @@
-Date,Description,Amount,Running Total
-2022-06-20,DEPOSIT,2000,2000
-2022-07-05,Primary Loan Invesments For Staines Mixed Use - Tranche A ( 1 loan part ),-1000,1000
-2022-07-08,Primary Loan Invesments For Wolverhampton Office Block - Tranche A ( 1 loan part ),-1000,0
-2022-08-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,4.55
-2022-08-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,4.095
-2022-08-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,9.011666667
-2022-08-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,8.52
-2022-09-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,13.07
-2022-09-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,12.615
-2022-09-05,Bank Interest from 06 06 2022 to 04 09 2022,0.01,12.625
-2022-09-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,17.54166667
-2022-09-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,17.05
-2022-10-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,21.6
-2022-10-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,21.145
-2022-10-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,26.06166667
-2022-10-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,25.57
-2022-11-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,30.12
-2022-11-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,29.665
-2022-11-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,34.58166667
-2022-11-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,34.09
-2022-12-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,38.64
-2022-12-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,38.185
-2022-12-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,43.10166667
-2022-12-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,42.61
-2023-01-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,47.16
-2023-01-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,46.705
-2023-01-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,51.62166667
-2023-01-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,51.13
-2023-02-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,55.68
-2023-02-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,55.225
-2023-02-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,60.14166667
-2023-02-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,59.65
-2023-02-20,DEPOSIT,1000,1059.65
-2023-03-01,Regular Monthly Interest – Feb 2023,-8.51,1051.14
-2023-03-03,Primary Loan Invesments For Prenton Industrial - Tranche A ( 1 loan part ),-1000,51.14
-2023-03-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,55.69
-2023-03-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,55.235
-2023-03-05,Withdrawal,-51.13,4.105
-2023-03-06,Bank Interest (05/12/2022 to 06/03/2023),0.1,4.205
-2023-03-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,9.121666667
-2023-03-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,8.63
-2023-04-01,Regular Monthly Interest – Mar 2023,-8.61,0.02
-2023-04-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,5.853333333
-2023-04-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.27
-2023-04-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,9.82
-2023-04-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,9.365
-2023-04-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,14.28166667
-2023-04-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,13.79
-2023-05-01,Regular Monthly Interest – Apr 2023,-13.76,0.03
-2023-05-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,5.863333333
-2023-05-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.28
-2023-05-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,9.83
-2023-05-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,9.375
-2023-05-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,14.29166667
-2023-05-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,13.8
-2023-06-01,Regular Monthly Interest – May 2023,-13.76,0.04
-2023-06-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,5.873333333
-2023-06-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.29
-2023-06-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,9.84
-2023-06-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,9.385
-2023-06-05,Bank Interest (06/03/2023 TO 05/06/2023),0.01,9.395
-2023-06-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,14.31166667
-2023-06-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,13.82
-2023-07-01,Regular Monthly Interest – Jun 2023,-13.77,0.05
-2023-07-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,5.883333333
-2023-07-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.3
-2023-07-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,9.85
-2023-07-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,9.395
-2023-07-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,14.31166667
-2023-07-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,13.82
-2023-08-01,Regular Monthly Interest – Jul 2023,-13.76,0.06
-2023-08-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,5.893333333
-2023-08-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.31
-2023-08-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,9.86
-2023-08-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,9.405
-2023-08-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,14.32166667
-2023-08-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,13.83
-2023-09-01,Regular Monthly Interest – Aug 2023,-13.76,0.07
-2023-09-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,5.903333333
-2023-09-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.32
-2023-09-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,9.87
-2023-09-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,9.415
-2023-09-05,Barclays Interest (02 06 2023 to 31 08 2023),0.03,9.445
-2023-09-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,14.36166667
-2023-09-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,13.87
-2023-10-01,Regular Monthly Interest – Sep 2023,-13.76,0.11
-2023-10-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,5.943333333
-2023-10-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.36
-2023-10-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,9.91
-2023-10-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,9.455
-2023-10-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,14.37166667
-2023-10-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,13.88
-2023-10-25,Principal Paid Off For Staines Mixed Use - Tranche A ( 1 loan part ),1000,1013.88
-2023-10-25,Gross Loan Interest For Staines Mixed Use - Tranche A ( 1 loan parts ),3.033333333,1016.913333
-2023-10-25,Fee For Staines Mixed Use - Tranche A ( 1 loan parts ),-0.3033333333,1016.61
-2023-11-01,Regular Monthly Interest – Oct 2023,-16.49,1000.12
-2023-11-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,1005.953333
-2023-11-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,1005.37
-2023-11-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,1010.286667
-2023-11-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,1009.795
-2023-11-10,Primary Loan Invesments For Bradford Commercial Mixed Use - Tranche A ( 1 loan part ),-1000,9.795
-2023-12-01,Regular Monthly Interest – Nov 2023,-9.67,0.125
-2023-12-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,5.958333333
-2023-12-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.375
-2023-12-04,Bank Interest (01/09/2023 to 03/12/2023),0.57,5.945
-2023-12-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,10.86166667
-2023-12-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,10.37
-2023-12-10,Gross Loan Interest For Bradford Commercial Mixed Use A ( 1 loan parts),7.35,17.72
-2023-12-10,Loan Interest Fee For Bradford Commercial Mixed Use A ( 1 loan parts),-0.735,16.985
-2024-01-01,Regular Monthly Interest – Dec 2023,-16.85,0.135
-2024-01-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,5.968333333
-2024-01-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.385
-2024-01-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,10.30166667
-2024-01-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,9.81
-2024-01-10,Gross Loan Interest For Bradford Commercial Mixed Use A ( 1 loan parts),7.35,17.16
-2024-01-10,Loan Interest Fee For Bradford Commercial Mixed Use A ( 1 loan parts),-0.735,16.425
-2024-02-01,Regular Monthly Interest – Jan 2024,-16.28,0.145
-2024-02-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,5.978333333
-2024-02-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.395
-2024-02-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,10.31166667
-2024-02-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,9.82
-2024-02-10,Gross Loan Interest For Bradford Commercial Mixed Use A ( 1 loan parts),7.35,17.17
-2024-02-10,Loan Interest Fee For Bradford Commercial Mixed Use A ( 1 loan parts),-0.735,16.435
-2024-03-01,Regular Monthly Interest – Feb 2024,-16.28,0.155
-2024-03-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,5.988333333
-2024-03-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.405
-2024-03-04,Bank Interest 12 December 2023 to 3 March 2024,0.05,5.455
-2024-03-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,10.37166667
-2024-03-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,9.88
-2024-03-10,Gross Loan Interest For Bradford Commercial Mixed Use A ( 1 loan parts),7.35,17.23
-2024-03-10,Loan Interest Fee For Bradford Commercial Mixed Use A ( 1 loan parts),-0.735,16.495
-2024-04-01,Regular Monthly Interest – Mar 2024,-16.33,0.165
-2024-04-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,5.998333333
-2024-04-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.415
-2024-04-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,10.33166667
-2024-04-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,9.84
-2024-04-10,Gross Loan Interest For Bradford Commercial Mixed Use A ( 1 loan parts),7.35,17.19
-2024-04-10,Loan Interest Fee For Bradford Commercial Mixed Use A ( 1 loan parts),-0.735,16.455
-2024-05-01,Regular Monthly Interest – Apr 2024,-16.28,0.175
-2024-05-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,6.008333333
-2024-05-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.425
-2024-05-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,10.34166667
-2024-05-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,9.85
-2024-05-10,Gross Loan Interest For Bradford Commercial Mixed Use A ( 1 loan parts),7.35,17.2
-2024-05-10,Loan Interest Fee For Bradford Commercial Mixed Use A ( 1 loan parts),-0.735,16.465
-2024-06-01,Regular Monthly Interest – May 2024,-16.28,0.185
-2024-06-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,6.018333333
-2024-06-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.435
-2024-06-03,Bank Interest (04/03/2024 to 02/06/2024),0.05,5.485
-2024-06-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,10.40166667
-2024-06-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,9.91
-2024-06-10,Gross Loan Interest For Bradford Commercial Mixed Use A ( 1 loan parts),7.35,17.26
-2024-06-10,Loan Interest Fee For Bradford Commercial Mixed Use A ( 1 loan parts),-0.735,16.525
-2024-07-01,Regular Monthly Interest – Jun 2024,-16.33,0.195
-2024-07-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,6.028333333
-2024-07-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.445
-2024-07-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,10.36166667
-2024-07-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,9.87
-2024-07-10,Gross Loan Interest For Bradford Commercial Mixed Use A ( 1 loan parts),7.35,17.22
-2024-07-10,Loan Interest Fee For Bradford Commercial Mixed Use A ( 1 loan parts),-0.735,16.485
+Date,Description,Amount,Running Total,Modified Amt
+2022-06-20,DEPOSIT,2000,2000,0
+2022-07-05,Primary Loan Invesments For Staines Mixed Use - Tranche A ( 1 loan part ),-1000,1000,-1000
+2022-07-08,Primary Loan Invesments For Wolverhampton Office Block - Tranche A ( 1 loan part ),-1000,0,-1000
+2022-08-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,4.55,4.55
+2022-08-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,4.095,-0.455
+2022-08-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,9.011666667,4.916666667
+2022-08-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,8.52,-0.4916666667
+2022-09-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,13.07,4.55
+2022-09-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,12.615,-0.455
+2022-09-05,Bank Interest from 06 06 2022 to 04 09 2022,0.01,12.625,0.01
+2022-09-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,17.54166667,4.916666667
+2022-09-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,17.05,-0.4916666667
+2022-10-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,21.6,4.55
+2022-10-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,21.145,-0.455
+2022-10-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,26.06166667,4.916666667
+2022-10-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,25.57,-0.4916666667
+2022-11-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,30.12,4.55
+2022-11-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,29.665,-0.455
+2022-11-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,34.58166667,4.916666667
+2022-11-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,34.09,-0.4916666667
+2022-12-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,38.64,4.55
+2022-12-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,38.185,-0.455
+2022-12-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,43.10166667,4.916666667
+2022-12-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,42.61,-0.4916666667
+2023-01-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,47.16,4.55
+2023-01-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,46.705,-0.455
+2023-01-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,51.62166667,4.916666667
+2023-01-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,51.13,-0.4916666667
+2023-02-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,55.68,4.55
+2023-02-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,55.225,-0.455
+2023-02-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,60.14166667,4.916666667
+2023-02-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,59.65,-0.4916666667
+2023-02-20,DEPOSIT,1000,1059.65,0
+2023-03-01,Regular Monthly Interest – Feb 2023,-8.51,1051.14,-8.51
+2023-03-03,Primary Loan Invesments For Prenton Industrial - Tranche A ( 1 loan part ),-1000,51.14,-1000
+2023-03-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,55.69,4.55
+2023-03-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,55.235,-0.455
+2023-03-05,Withdrawal,-51.13,4.105,-51.13
+2023-03-06,Bank Interest (05/12/2022 to 06/03/2023),0.1,4.205,0.1
+2023-03-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,9.121666667,4.916666667
+2023-03-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,8.63,-0.4916666667
+2023-04-01,Regular Monthly Interest – Mar 2023,-8.61,0.02,-8.61
+2023-04-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,5.853333333,5.833333333
+2023-04-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.27,-0.5833333333
+2023-04-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,9.82,4.55
+2023-04-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,9.365,-0.455
+2023-04-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,14.28166667,4.916666667
+2023-04-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,13.79,-0.4916666667
+2023-05-01,Regular Monthly Interest – Apr 2023,-13.76,0.03,-13.76
+2023-05-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,5.863333333,5.833333333
+2023-05-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.28,-0.5833333333
+2023-05-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,9.83,4.55
+2023-05-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,9.375,-0.455
+2023-05-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,14.29166667,4.916666667
+2023-05-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,13.8,-0.4916666667
+2023-06-01,Regular Monthly Interest – May 2023,-13.76,0.04,-13.76
+2023-06-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,5.873333333,5.833333333
+2023-06-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.29,-0.5833333333
+2023-06-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,9.84,4.55
+2023-06-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,9.385,-0.455
+2023-06-05,Bank Interest (06/03/2023 TO 05/06/2023),0.01,9.395,0.01
+2023-06-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,14.31166667,4.916666667
+2023-06-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,13.82,-0.4916666667
+2023-07-01,Regular Monthly Interest – Jun 2023,-13.77,0.05,-13.77
+2023-07-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,5.883333333,5.833333333
+2023-07-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.3,-0.5833333333
+2023-07-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,9.85,4.55
+2023-07-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,9.395,-0.455
+2023-07-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,14.31166667,4.916666667
+2023-07-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,13.82,-0.4916666667
+2023-08-01,Regular Monthly Interest – Jul 2023,-13.76,0.06,-13.76
+2023-08-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,5.893333333,5.833333333
+2023-08-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.31,-0.5833333333
+2023-08-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,9.86,4.55
+2023-08-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,9.405,-0.455
+2023-08-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,14.32166667,4.916666667
+2023-08-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,13.83,-0.4916666667
+2023-09-01,Regular Monthly Interest – Aug 2023,-13.76,0.07,-13.76
+2023-09-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,5.903333333,5.833333333
+2023-09-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.32,-0.5833333333
+2023-09-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,9.87,4.55
+2023-09-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,9.415,-0.455
+2023-09-05,Barclays Interest (02 06 2023 to 31 08 2023),0.03,9.445,0.03
+2023-09-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,14.36166667,4.916666667
+2023-09-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,13.87,-0.4916666667
+2023-10-01,Regular Monthly Interest – Sep 2023,-13.76,0.11,-13.76
+2023-10-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,5.943333333,5.833333333
+2023-10-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.36,-0.5833333333
+2023-10-05,Gross Loan Interest For Staines Mixed Use A ( 1 loan parts),4.55,9.91,4.55
+2023-10-05,Loan Interest Fee For Staines Mixed Use A ( 1 loan parts),-0.455,9.455,-0.455
+2023-10-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,14.37166667,4.916666667
+2023-10-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,13.88,-0.4916666667
+2023-10-25,Principal Paid Off For Staines Mixed Use - Tranche A ( 1 loan part ),1000,1013.88,1000
+2023-10-25,Gross Loan Interest For Staines Mixed Use - Tranche A ( 1 loan parts ),3.033333333,1016.913333,3.033333333
+2023-10-25,Fee For Staines Mixed Use - Tranche A ( 1 loan parts ),-0.3033333333,1016.61,-0.3033333333
+2023-11-01,Regular Monthly Interest – Oct 2023,-16.49,1000.12,-16.49
+2023-11-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,1005.953333,5.833333333
+2023-11-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,1005.37,-0.5833333333
+2023-11-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,1010.286667,4.916666667
+2023-11-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,1009.795,-0.4916666667
+2023-11-10,Primary Loan Invesments For Bradford Commercial Mixed Use - Tranche A ( 1 loan part ),-1000,9.795,-1000
+2023-12-01,Regular Monthly Interest – Nov 2023,-9.67,0.125,-9.67
+2023-12-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,5.958333333,5.833333333
+2023-12-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.375,-0.5833333333
+2023-12-04,Bank Interest (01/09/2023 to 03/12/2023),0.57,5.945,0.57
+2023-12-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,10.86166667,4.916666667
+2023-12-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,10.37,-0.4916666667
+2023-12-10,Gross Loan Interest For Bradford Commercial Mixed Use A ( 1 loan parts),7.35,17.72,7.35
+2023-12-10,Loan Interest Fee For Bradford Commercial Mixed Use A ( 1 loan parts),-0.735,16.985,-0.735
+2024-01-01,Regular Monthly Interest – Dec 2023,-16.85,0.135,-16.85
+2024-01-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,5.968333333,5.833333333
+2024-01-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.385,-0.5833333333
+2024-01-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,10.30166667,4.916666667
+2024-01-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,9.81,-0.4916666667
+2024-01-10,Gross Loan Interest For Bradford Commercial Mixed Use A ( 1 loan parts),7.35,17.16,7.35
+2024-01-10,Loan Interest Fee For Bradford Commercial Mixed Use A ( 1 loan parts),-0.735,16.425,-0.735
+2024-02-01,Regular Monthly Interest – Jan 2024,-16.28,0.145,-16.28
+2024-02-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,5.978333333,5.833333333
+2024-02-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.395,-0.5833333333
+2024-02-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,10.31166667,4.916666667
+2024-02-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,9.82,-0.4916666667
+2024-02-10,Gross Loan Interest For Bradford Commercial Mixed Use A ( 1 loan parts),7.35,17.17,7.35
+2024-02-10,Loan Interest Fee For Bradford Commercial Mixed Use A ( 1 loan parts),-0.735,16.435,-0.735
+2024-03-01,Regular Monthly Interest – Feb 2024,-16.28,0.155,-16.28
+2024-03-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,5.988333333,5.833333333
+2024-03-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.405,-0.5833333333
+2024-03-04,Bank Interest 12 December 2023 to 3 March 2024,0.05,5.455,0.05
+2024-03-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,10.37166667,4.916666667
+2024-03-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,9.88,-0.4916666667
+2024-03-10,Gross Loan Interest For Bradford Commercial Mixed Use A ( 1 loan parts),7.35,17.23,7.35
+2024-03-10,Loan Interest Fee For Bradford Commercial Mixed Use A ( 1 loan parts),-0.735,16.495,-0.735
+2024-04-01,Regular Monthly Interest – Mar 2024,-16.33,0.165,-16.33
+2024-04-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,5.998333333,5.833333333
+2024-04-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.415,-0.5833333333
+2024-04-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,10.33166667,4.916666667
+2024-04-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,9.84,-0.4916666667
+2024-04-10,Gross Loan Interest For Bradford Commercial Mixed Use A ( 1 loan parts),7.35,17.19,7.35
+2024-04-10,Loan Interest Fee For Bradford Commercial Mixed Use A ( 1 loan parts),-0.735,16.455,-0.735
+2024-05-01,Regular Monthly Interest – Apr 2024,-16.28,0.175,-16.28
+2024-05-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,6.008333333,5.833333333
+2024-05-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.425,-0.5833333333
+2024-05-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,10.34166667,4.916666667
+2024-05-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,9.85,-0.4916666667
+2024-05-10,Gross Loan Interest For Bradford Commercial Mixed Use A ( 1 loan parts),7.35,17.2,7.35
+2024-05-10,Loan Interest Fee For Bradford Commercial Mixed Use A ( 1 loan parts),-0.735,16.465,-0.735
+2024-06-01,Regular Monthly Interest – May 2024,-16.28,0.185,-16.28
+2024-06-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,6.018333333,5.833333333
+2024-06-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.435,-0.5833333333
+2024-06-03,Bank Interest (04/03/2024 to 02/06/2024),0.05,5.485,0.05
+2024-06-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,10.40166667,4.916666667
+2024-06-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,9.91,-0.4916666667
+2024-06-10,Gross Loan Interest For Bradford Commercial Mixed Use A ( 1 loan parts),7.35,17.26,7.35
+2024-06-10,Loan Interest Fee For Bradford Commercial Mixed Use A ( 1 loan parts),-0.735,16.525,-0.735
+2024-07-01,Regular Monthly Interest – Jun 2024,-16.33,0.195,-16.33
+2024-07-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,6.028333333,5.833333333
+2024-07-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.445,-0.5833333333
+2024-07-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,10.36166667,4.916666667
+2024-07-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,9.87,-0.4916666667
+2024-07-10,Gross Loan Interest For Bradford Commercial Mixed Use A ( 1 loan parts),7.35,17.22,7.35
+2024-07-10,Loan Interest Fee For Bradford Commercial Mixed Use A ( 1 loan parts),-0.735,16.485,-0.735
+2024-08-01,Regular Monthly Interest – Jul 2024,-16.28,0.205,-16.28
+2024-08-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,6.038333333,5.833333333
+2024-08-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.5833333333,5.455,-0.5833333333
+2024-08-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,10.37166667,4.916666667
+2024-08-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.4916666667,9.88,-0.4916666667
+2024-08-10,Gross Loan Interest For Bradford Commercial Mixed Use A ( 1 loan parts),7.35,17.23,7.35
+2024-08-10,Loan Interest Fee For Bradford Commercial Mixed Use A ( 1 loan parts),-0.735,16.495,-0.735
+2024-08-27,DEPOSIT,1000,1016.495,0
+2024-09-01,Regular Monthly Interest â€“ Aug 2024,-16.28,1000.215,-16.28
+2024-09-02,Bank Interest (from 03/06/2024 to 02/09/2024),0.27,1000.485,0.27
+2024-09-03,Gross Loan Interest For Prenton Industrial A ( 1 loan parts),5.833333333,1006.318333,5.833333333
+2024-09-03,Loan Interest Fee For Prenton Industrial A ( 1 loan parts),-0.583333333,1005.735,-0.583333333
+2024-09-08,Gross Loan Interest For Wolverhampton Office Block A ( 1 loan parts),4.916666667,1010.651667,4.916666667
+2024-09-08,Loan Interest Fee For Wolverhampton Office Block A ( 1 loan parts),-0.491666667,1010.16,-0.491666667
+2024-09-10,Gross Loan Interest For Bradford Commercial Mixed Use A ( 1 loan parts),7.35,1017.51,7.35
+2024-09-10,Loan Interest Fee For Bradford Commercial Mixed Use A ( 1 loan parts),-0.735,1016.775,-0.735
