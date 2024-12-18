@@ -326,35 +326,62 @@ Date,Entry,From,To,Type,Amount,Reference,Transaction,Cash Flow,Date Value
 29-May-2024 11:44:36,Debit,Glendower Guest House High  Project Wallet,Standard Wallet,Capital Payment,15.17,13567MARKET,15.17,15.17,29/05/2024
 29-May-2024 11:44:39,Debit,Glendower Guest House High  Project Wallet,Standard Wallet,Interest Payment,0.92,13567MARKET,0.92,0.92,29/05/2024
 10-Jun-2024 09:58:40,Debit,1222 High street Wickford Project Wallet,Standard Wallet,Interest Payment,0.34,9053ESSEX,0.34,0.34,10/06/2024
-12-Jun-2024 13:17:16,Debit,57 St Dunstans Avenue   Project Wallet,Standard Wallet,Capital Payment,50,10054LONDON,50,0.34,12/06/2024
-12-Jun-2024 13:17:27,Debit,57 St Dunstans Avenue   Project Wallet,Standard Wallet,Interest Payment,6.23,10054LONDON,6.23,50.00,12/06/2024
-13-Jun-2024 07:42:22,Debit,57 St Dunstans Avenue East Project Wallet,Standard Wallet,Capital Payment,50,9481LONDON,50,6.23,13/06/2024
-13-Jun-2024 07:42:27,Debit,57 St Dunstans Avenue East Project Wallet,Standard Wallet,Interest Payment,6.64,9481LONDON,6.64,50.00,13/06/2024
-30-Jun-2024 05:34:21,Debit,Simon Fisher StandardWallet - AutoInvest,Standard Wallet,Internal Transfer,81.91,Internal Transfer,-81.91,6.64,30/06/2024
+12-Jun-2024 13:17:16,Debit,57 St Dunstans Avenue   Project Wallet,Standard Wallet,Capital Payment,50,10054LONDON,50,50.00,12/06/2024
+12-Jun-2024 13:17:27,Debit,57 St Dunstans Avenue   Project Wallet,Standard Wallet,Interest Payment,6.23,10054LONDON,6.23,6.23,12/06/2024
+13-Jun-2024 07:42:22,Debit,57 St Dunstans Avenue East Project Wallet,Standard Wallet,Capital Payment,50,9481LONDON,50,50.00,13/06/2024
+13-Jun-2024 07:42:27,Debit,57 St Dunstans Avenue East Project Wallet,Standard Wallet,Interest Payment,6.64,9481LONDON,6.64,6.64,13/06/2024
+30-Jun-2024 05:34:21,Debit,Simon Fisher StandardWallet - AutoInvest,Standard Wallet,Internal Transfer,81.91,Internal Transfer,-81.91,-81.91,30/06/2024
 30-Jun-2024 05:36:12,Debit,Standard Wallet,Withdrawal(Ref: CrowdProperty),Not Set,327.71,CrowdProperty,-327.71,327.71,30/06/2024
-08-Jul-2024 12:58:24,Debit,1222 High street Wickford Project Wallet,Standard Wallet,Interest Payment,0.34,9053ESSEX,0.34,81.91,08/07/2024
-12-Jul-2024 09:30:03,Debit,Development site Holly Farm  Project Wallet,Standard Wallet,Capital Payment,8.14,6206HALSALL,8.14,327.71,12/07/2024
-12-Jul-2024 09:30:03,Debit,Development site Holly Farm  Project Wallet,Standard Wallet,Interest Payment,1.49,6206HALSALL,1.49,0.34,12/07/2024
-16-Jul-2024 23:03:07,Debit,East Hookers Farm Bolney Ch Project Wallet,Standard Wallet,Capital Payment,50,14897HAYWARD,50,1.49,16/07/2024
-16-Jul-2024 23:03:07,Debit,East Hookers Farm Bolney Ch Project Wallet,Standard Wallet,Interest Payment,2.23,14897HAYWARD,2.23,8.14,16/07/2024
-03-Aug-2024 11:27:28,Debit,Standard Wallet,Withdrawal(Ref: CrowdProperty),Not Set,62.2,CrowdProperty,-62.2,2.23,03/08/2024
-06-Aug-2024 23:00:57,Debit,Land Adjacent Pendre Devils Project Wallet,Standard Wallet,Capital Payment,9.09,9695ABERYSTW,9.09,50.00,06/08/2024
-07-Aug-2024 09:49:12,Debit,1222 High street Wickford Project Wallet,Standard Wallet,Interest Payment,0.34,9053ESSEX,0.34,62.20,07/08/2024
-19-Aug-2024 15:45:24,Debit,Clifton House Lord Street  Project Wallet,Standard Wallet,Interest Payment,3.37,14563WOLVERH,3.37,62.20,19/08/2024
-19-Aug-2024 15:56:42,Debit,Land at Birkby Lane Bailiff Project Wallet,Standard Wallet,Interest Payment,2.63,14760BAILIFF,2.63,62.20,19/08/2024
-19-Aug-2024 16:14:35,Debit,Sunningdale Wymondham Road Project Wallet,Standard Wallet,Interest Payment,2.19,15386NORWICH,2.19,62.20,19/08/2024
-22-Aug-2024 09:52:54,Debit,Clifton House Lord Street  Project Wallet,Standard Wallet,Interest Payment,0.42,14563WOLVERH,0.42,62.20,22/08/2024
-27-Aug-2024 09:57:47,Debit,Land at Birkby Lane Bailiff Project Wallet,Standard Wallet,Interest Payment,0.44,14760BAILIFF,0.44,62.20,27/08/2024
-30-Aug-2024 13:50:44,Debit,Land At 18 Dutton Close Sto Project Wallet,Standard Wallet,Capital Payment,5.12,7175MARKETD,5.12,62.20,30/08/2024
-30-Aug-2024 13:50:44,Debit,Land At 18 Dutton Close Sto Project Wallet,Standard Wallet,Interest Payment,0.41,7175MARKETD,0.41,62.20,30/08/2024
-02-Sep-2024 14:07:52,Debit,Hollyfold Farm Rainford Roa Project Wallet,Standard Wallet,Interest Payment,2.25,12306ORMSKIR,2.25,62.20,02/09/2024
-02-Sep-2024 14:07:58,Debit,Hollyfold Farm Rainford Roa Project Wallet,Standard Wallet,Capital Payment,29.74,12306ORMSKIR,29.74,62.20,02/09/2024
-03-Sep-2024 12:49:31,Debit,Land At Bush Close Ilford  Project Wallet,Standard Wallet,Capital Payment,50,10578ESSEX,50,62.20,03/09/2024
-03-Sep-2024 12:49:49,Debit,Land At Bush Close Ilford  Project Wallet,Standard Wallet,Interest Payment,5.84,10578ESSEX,5.84,62.20,03/09/2024
-04-Sep-2024 15:36:33,Debit,Land at 2 Norwich Road Best Project Wallet,Standard Wallet,Capital Payment,10.06,14088ATTLEBO,10.06,62.20,04/09/2024
-04-Sep-2024 15:36:44,Debit,2 Land at Norwich Road Best Project Wallet,Standard Wallet,Interest Payment,1.06,13278ATTLEBO,1.06,62.20,04/09/2024
-04-Sep-2024 15:36:58,Debit,2 Land at Norwich Road Best Project Wallet,Standard Wallet,Capital Payment,10.06,13278ATTLEBO,10.06,62.20,04/09/2024
-04-Sep-2024 15:37:35,Debit,Land at 2 Norwich Road Best Project Wallet,Standard Wallet,Interest Payment,0.74,14088ATTLEBO,0.74,62.20,04/09/2024
-12-Sep-2024 09:46:09,Debit,Sunningdale Wymondham Road Project Wallet,Standard Wallet,Interest Payment,0.44,15386NORWICH,0.44,62.20,12/09/2024
-15-Sep-2024 08:27:45,Debit,Standard Wallet,Withdrawal(Ref: Crowd Property),Not Set,134.2,Crowd Property,-134.2,62.20,15/09/2024
-20-Sep-2024 14:02:11,Credit,1222 High street Wickford Project Wallet,Standard Wallet,Interest Payment,0.34,9053ESSEX,0.34,62.20,20/09/2024
+08-Jul-2024 12:58:24,Debit,1222 High street Wickford Project Wallet,Standard Wallet,Interest Payment,0.34,9053ESSEX,0.34,0.34,08/07/2024
+12-Jul-2024 09:30:03,Debit,Development site Holly Farm  Project Wallet,Standard Wallet,Capital Payment,8.14,6206HALSALL,8.14,8.14,12/07/2024
+12-Jul-2024 09:30:03,Debit,Development site Holly Farm  Project Wallet,Standard Wallet,Interest Payment,1.49,6206HALSALL,1.49,1.49,12/07/2024
+16-Jul-2024 23:03:07,Debit,East Hookers Farm Bolney Ch Project Wallet,Standard Wallet,Capital Payment,50,14897HAYWARD,50,50.00,16/07/2024
+16-Jul-2024 23:03:07,Debit,East Hookers Farm Bolney Ch Project Wallet,Standard Wallet,Interest Payment,2.23,14897HAYWARD,2.23,2.23,16/07/2024
+03-Aug-2024 11:27:28,Debit,Standard Wallet,Withdrawal(Ref: CrowdProperty),Not Set,62.2,CrowdProperty,-62.2,62.20,03/08/2024
+06-Aug-2024 23:00:57,Debit,Land Adjacent Pendre Devils Project Wallet,Standard Wallet,Capital Payment,9.09,9695ABERYSTW,9.09,9.09,06/08/2024
+07-Aug-2024 09:49:12,Debit,1222 High street Wickford Project Wallet,Standard Wallet,Interest Payment,0.34,9053ESSEX,0.34,0.34,07/08/2024
+19-Aug-2024 15:45:24,Debit,Clifton House Lord Street  Project Wallet,Standard Wallet,Interest Payment,3.37,14563WOLVERH,3.37,3.37,19/08/2024
+19-Aug-2024 15:56:42,Debit,Land at Birkby Lane Bailiff Project Wallet,Standard Wallet,Interest Payment,2.63,14760BAILIFF,2.63,2.63,19/08/2024
+19-Aug-2024 16:14:35,Debit,Sunningdale Wymondham Road Project Wallet,Standard Wallet,Interest Payment,2.19,15386NORWICH,2.19,2.19,19/08/2024
+22-Aug-2024 09:52:54,Debit,Clifton House Lord Street  Project Wallet,Standard Wallet,Interest Payment,0.42,14563WOLVERH,0.42,0.42,22/08/2024
+27-Aug-2024 09:57:47,Debit,Land at Birkby Lane Bailiff Project Wallet,Standard Wallet,Interest Payment,0.44,14760BAILIFF,0.44,0.44,27/08/2024
+30-Aug-2024 13:50:44,Debit,Land At 18 Dutton Close Sto Project Wallet,Standard Wallet,Capital Payment,5.12,7175MARKETD,5.12,5.12,30/08/2024
+30-Aug-2024 13:50:44,Debit,Land At 18 Dutton Close Sto Project Wallet,Standard Wallet,Interest Payment,0.41,7175MARKETD,0.41,0.41,30/08/2024
+02-Sep-2024 14:07:52,Debit,Hollyfold Farm Rainford Roa Project Wallet,Standard Wallet,Interest Payment,2.25,12306ORMSKIR,2.25,2.25,02/09/2024
+02-Sep-2024 14:07:58,Debit,Hollyfold Farm Rainford Roa Project Wallet,Standard Wallet,Capital Payment,29.74,12306ORMSKIR,29.74,29.74,02/09/2024
+03-Sep-2024 12:49:31,Debit,Land At Bush Close Ilford  Project Wallet,Standard Wallet,Capital Payment,50,10578ESSEX,50,50.00,03/09/2024
+03-Sep-2024 12:49:49,Debit,Land At Bush Close Ilford  Project Wallet,Standard Wallet,Interest Payment,5.84,10578ESSEX,5.84,5.84,03/09/2024
+04-Sep-2024 15:36:33,Debit,Land at 2 Norwich Road Best Project Wallet,Standard Wallet,Capital Payment,10.06,14088ATTLEBO,10.06,10.06,04/09/2024
+04-Sep-2024 15:36:44,Debit,2 Land at Norwich Road Best Project Wallet,Standard Wallet,Interest Payment,1.06,13278ATTLEBO,1.06,1.06,04/09/2024
+04-Sep-2024 15:36:58,Debit,2 Land at Norwich Road Best Project Wallet,Standard Wallet,Capital Payment,10.06,13278ATTLEBO,10.06,10.06,04/09/2024
+04-Sep-2024 15:37:35,Debit,Land at 2 Norwich Road Best Project Wallet,Standard Wallet,Interest Payment,0.74,14088ATTLEBO,0.74,0.74,04/09/2024
+12-Sep-2024 09:46:09,Debit,Sunningdale Wymondham Road Project Wallet,Standard Wallet,Interest Payment,0.44,15386NORWICH,0.44,0.44,12/09/2024
+15-Sep-2024 08:27:45,Debit,Standard Wallet,Withdrawal(Ref: Crowd Property),Not Set,134.2,Crowd Property,-134.2,-134.20,15/09/2024
+20-Sep-2024 14:02:11,Credit,1222 High street Wickford Project Wallet,Standard Wallet,Interest Payment,0.34,9053ESSEX,0.34,0.34,20/09/2024
+23-Sep-2024 14:35:45,Credit,Clifton House Lord Street  Project Wallet,Standard Wallet,Interest Payment,0.42,14563WOLVERH,0.42,0.42,23/09/2024
+24-Sep-2024 09:36:33,Credit,Land at Birkby Lane Bailiff Project Wallet,Standard Wallet,Interest Payment,0.44,14760BAILIFF,0.44,0.44,24/09/2024
+30-Sep-2024 16:05:05,Credit,Red Lion Atherstone Road  Project Wallet,Standard Wallet,Interest Payment,1.78,9192ATHERSTO,1.78,1.78,30/09/2024
+30-Sep-2024 16:05:07,Credit,Red Lion Atherstone Road  Project Wallet,Standard Wallet,Capital Payment,50,9192ATHERSTO,50,50.00,30/09/2024
+07-Oct-2024 15:44:36,Credit,Brookhouse Farm Stanifield  Project Wallet,Standard Wallet,Capital Payment,36.73,9017PRESTON,36.73,36.73,07/10/2024
+07-Oct-2024 15:44:39,Credit,Brookhouse Farm Stanifield  Project Wallet,Standard Wallet,Interest Payment,6.2,9017PRESTON,6.2,6.20,07/10/2024
+08-Oct-2024 08:55:18,Credit,Brookhouse Farm Stanifield  Project Wallet,Standard Wallet,Interest Payment,5.98,9018PRESTON,5.98,5.98,08/10/2024
+08-Oct-2024 08:55:18,Credit,Brookhouse Farm Stanifield  Project Wallet,Standard Wallet,Capital Payment,36.73,9018PRESTON,36.73,36.73,08/10/2024
+11-Oct-2024 11:18:24,Credit,Sunningdale Wymondham Road Project Wallet,Standard Wallet,Interest Payment,0.44,15386NORWICH,0.44,0.44,11/10/2024
+22-Oct-2024 10:01:00,Credit,Clifton House Lord Street  Project Wallet,Standard Wallet,Interest Payment,0.42,14563WOLVERH,0.42,0.42,22/10/2024
+23-Oct-2024 10:41:31,Credit,Land at 2 Norwich Road Best Project Wallet,Standard Wallet,Capital Payment,6.29,14088ATTLEBO,6.29,6.29,23/10/2024
+23-Oct-2024 10:41:34,Credit,Land at 2 Norwich Road Best Project Wallet,Standard Wallet,Interest Payment,0.54,14088ATTLEBO,0.54,0.54,23/10/2024
+23-Oct-2024 10:44:38,Credit,2 Land at Norwich Road Best Project Wallet,Standard Wallet,Capital Payment,6.29,13278ATTLEBO,6.29,6.29,23/10/2024
+23-Oct-2024 10:44:40,Credit,2 Land at Norwich Road Best Project Wallet,Standard Wallet,Interest Payment,0.74,13278ATTLEBO,0.74,0.74,23/10/2024
+23-Oct-2024 12:55:48,Credit,The Dart Inn Short Street  Project Wallet,Standard Wallet,Interest Payment,0.6,12339BURTON-,0.6,0.60,23/10/2024
+23-Oct-2024 12:55:51,Credit,The Dart Inn Short Street  Project Wallet,Standard Wallet,Capital Payment,5.56,12339BURTON-,5.56,5.56,23/10/2024
+24-Oct-2024 10:30:00,Credit,Land at Birkby Lane Bailiff Project Wallet,Standard Wallet,Interest Payment,0.44,14760BAILIFF,0.44,0.44,24/10/2024
+11-Nov-2024 11:47:23,Credit,Sunningdale Wymondham Road Project Wallet,Standard Wallet,Interest Payment,0.44,15386NORWICH,0.44,0.44,11/11/2024
+22-Nov-2024 12:11:07,Credit,Clifton House Lord Street  Project Wallet,Standard Wallet,Interest Payment,0.42,14563WOLVERH,0.42,0.42,22/11/2024
+25-Nov-2024 10:40:29,Credit,Land at Birkby Lane Bailiff Project Wallet,Standard Wallet,Interest Payment,0.44,14760BAILIFF,0.44,0.44,25/11/2024
+26-Nov-2024 10:27:12,Credit,Glendower Guest House High  Project Wallet,Standard Wallet,Interest Payment,0.53,13567MARKET,0.53,0.53,26/11/2024
+26-Nov-2024 10:27:15,Credit,Glendower Guest House High  Project Wallet,Standard Wallet,Capital Payment,4.83,13567MARKET,4.83,4.83,26/11/2024
+11-Dec-2024 10:48:59,Credit,Sunningdale Wymondham Road Project Wallet,Standard Wallet,Interest Payment,0.44,15386NORWICH,0.44,0.44,11/12/2024
+17-Dec-2024 09:20:50,Debit,Standard Wallet,Withdrawal(Ref: Crowd Property),Not Set,167.04,Crowd Property,-167.04,-167.04,17/12/2024
+17-Dec-2024 12:06:23,Credit,Beckside Farm Main Street  Project Wallet,Standard Wallet,Interest Payment,1.76,13300TOLTHOR,1.76,1.76,17/12/2024
+17-Dec-2024 12:06:59,Credit,Beckside Farm Main Street  Project Wallet,Standard Wallet,Capital Payment,17.08,13300TOLTHOR,17.08,17.08,17/12/2024
+18-Dec-2024 09:31:51,Debit,Standard Wallet,Withdrawal(Ref: CrowdProperty),Not Set,18.84,CrowdProperty,-18.84,18.84,18/12/2024
