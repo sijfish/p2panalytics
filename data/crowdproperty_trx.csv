@@ -385,3 +385,18 @@ Date,Entry,From,To,Type,Amount,Reference,Transaction,Cash Flow,Date Value
 17-Dec-2024 12:06:23,Credit,Beckside Farm Main Street  Project Wallet,Standard Wallet,Interest Payment,1.76,13300TOLTHOR,1.76,1.76,17/12/2024
 17-Dec-2024 12:06:59,Credit,Beckside Farm Main Street  Project Wallet,Standard Wallet,Capital Payment,17.08,13300TOLTHOR,17.08,17.08,17/12/2024
 18-Dec-2024 09:31:51,Debit,Standard Wallet,Withdrawal(Ref: CrowdProperty),Not Set,18.84,CrowdProperty,-18.84,18.84,18/12/2024
+29-Jan-2025 10:45:25,Debit,Standard Wallet,Withdrawal(Ref: CrowdProperty),Not Set,117.21,CrowdProperty,-117.21,117.21,29/01/2025
+28-Jan-2025 17:00:17,Debit,Hazelwood Hazel Lane Wal Project Wallet,Standard Wallet,Interest Payment,1.46,9289WALSALL,1.46,1.46,28/01/2025
+28-Jan-2025 17:00:06,Debit,Hazelwood Hazel Lane Wal Project Wallet,Standard Wallet,Capital Payment,7.91,9289WALSALL,7.91,7.91,28/01/2025
+24-Jan-2025 11:08:29,Debit,Land at Birkby Lane Bailiff Project Wallet,Standard Wallet,Interest Payment,0.44,14760BAILIFF,0.44,0.44,24/01/2025
+24-Jan-2025 10:49:37,Debit,Land within curtilage of West  Project Wallet,Standard Wallet,Interest Payment,0.83,13442BLACKWO,0.83,0.83,24/01/2025
+24-Jan-2025 10:49:31,Debit,Land within curtilage of West  Project Wallet,Standard Wallet,Capital Payment,7,13442BLACKWO,7,7.00,24/01/2025
+13-Jan-2025 15:06:18,Debit,Sunningdale Wymondham Road Project Wallet,Standard Wallet,Interest Payment,0.44,15386NORWICH,0.44,0.44,13/01/2025
+08-Jan-2025 15:21:47,Debit,Land within curtilage of West  Project Wallet,Standard Wallet,Interest Payment,1.25,13442BLACKWO,1.25,1.25,08/01/2025
+08-Jan-2025 15:20:57,Debit,Land within curtilage of West  Project Wallet,Standard Wallet,Capital Payment,12,13442BLACKWO,12,12.00,08/01/2025
+03-Jan-2025 14:22:50,Debit,Land at Birkby Lane Bailiff Project Wallet,Standard Wallet,Interest Payment,0.44,14760BAILIFF,0.44,0.44,03/01/2025
+23-Dec-2024 11:39:58,Debit,Clifton House Lord Street  Project Wallet,Standard Wallet,Interest Payment,0.42,14563WOLVERH,0.42,0.42,23/12/2024
+20-Dec-2024 18:32:14,Debit,25 Enfield Avenue New Walth Project Wallet,Standard Wallet,Capital Payment,18.31,9502GRIMSBY,18.31,18.31,20/12/2024
+19-Dec-2024 17:06:26,Debit,Warleys Lane West Wick W Project Wallet,Standard Wallet,Capital Payment,50,10136WESTON-,50,50.00,19/12/2024
+19-Dec-2024 17:06:17,Debit,Warleys Lane West Wick W Project Wallet,Standard Wallet,Interest Payment,5.58,10136WESTON-,5.58,5.58,19/12/2024
+19-Dec-2024 15:15:39,Debit,Yorkshire Coast College Wes Project Wallet,Standard Wallet,Capital Payment,11.13,8715SCARBORO,11.13,11.13,19/12/2024

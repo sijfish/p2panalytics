@@ -1,4 +1,8 @@
 id,createdAt,status,narrative,amount,forAssetzCapitalAccount,tooltip
+1865136521,2025-01-02 18:12:28 +08:00,settled,Inter account transfer to cash account,-1.613368019,Simon Fisher (DQAA1FISHSI893),
+1865108797,2025-01-02 18:09:06 +08:00,settled,Interest payment for Quick Access Account for month 2024-12 at 3.55% per annum,1.613368019,Simon Fisher (DQAA1FISHSI893),
+1865013667,2025-01-01 14:04:35 +08:00,settled,Inter account transfer to cash account,-9.845745795,Simon Fisher (DQAA1FISHSI893),
+1865013666,2025-01-01 14:04:35 +08:00,settled,Withdrawal from Quick Access Account (5),9.845745795,Simon Fisher (DQAA1FISHSI893),
 1864508896,2024-12-02 18:46:31 +08:00,settled,Inter account transfer to cash account,-2.034511956,Simon Fisher (DQAA1FISHSI893),
 1864481105,2024-12-02 18:39:30 +08:00,settled,Interest payment for Quick Access Account for month 2024-11 at 4% per annum,2.034511956,Simon Fisher (DQAA1FISHSI893),
 1864411140,2024-12-01 14:04:03 +08:00,settled,Inter account transfer to cash account,-65.31911479,Simon Fisher (DQAA1FISHSI893),

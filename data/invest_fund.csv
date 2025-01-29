@@ -1,31 +1,31 @@
 Loan Ref,Company Name,Outstanding Balance,Term Remaining,Interest Rate,Earned Interest,Purchased Interest,Total Interest,Maturity Date,,,Project,Blended LTV,Loan Parts in Loan,Days to current maturity,Original maturity date,Maturity date extended
-1851,Tredown Barns Developments Limited (3) – Drawdown 1,50.18,2 / 273 days,8.00%,2.95,0,2.95,20-Dec-24,View,Sell Loan,Tredown Barns Developments Limited,69.4,1,2,20/12/2024,0
-2194,Brooks Road BA Ltd – Drawdown 5,17.62,44 / 60 days,7.50%,0.03,0.02,0.05,31-Jan-25,View,Sell Loan,Brooks Road BA Ltd,65.1,1,44,31/01/2025,0
-1808,Witley Homes (Portway) Limited (2) – Drawdown 6,100,55 / 375 days,8.25%,7.19,0,7.19,11-Feb-25,View,Sell Loan,Witley Homes,65,4,55,11/02/2025,0
-1833,Witley Homes (Portway) Limited (2) – Drawdown 7,100,55 / 349 days,8.25%,6.59,0,6.59,11-Feb-25,View,Sell Loan,Witley Homes,65,4,55,11/02/2025,0
-1942,Witley Homes (Portway) Limited (2) – Drawdown 10,11.13,55 / 258 days,8.25%,0.48,0.01,0.49,11-Feb-25,View,Sell Loan,Witley Homes,65,4,55,11/02/2025,0
-2083,Witley Homes (Portway) Limited (2) – Drawdown 13,38.87,55 / 147 days,8.25%,0.78,0,0.78,11-Feb-25,View,Sell Loan,Witley Homes,65,4,55,11/02/2025,0
-1969,Alpine Homes Fruit Market Ltd (3) – Drawdown 1,250,72 / 245 days,7.50%,8.71,0,8.71,28-Feb-25,View,Sell Loan,Alpine Homes Fruit Market Ltd,72.3,2,72,28/02/2025,0
-2192,Alpine Homes Fruit Market Ltd (3) – Drawdown 7,28.79,72 / 92 days,7.50%,0.05,0.06,0.11,28-Feb-25,View,Sell Loan,Alpine Homes Fruit Market Ltd,72.3,2,72,28/02/2025,0
-1859,NRP Diggle Ltd (5) – Drawdown 1,200,77 / 334 days,8.25%,11.48,0,11.48,5-Mar-25,View,Sell Loan,NRP Diggle Ltd,68,2,77,05/03/2025,0
-1859,NRP Diggle Ltd (5) – Drawdown 1,4.17,77 / 334 days,8.25%,0.18,0.05,0.23,5-Mar-25,View,Sell Loan,NRP Diggle Ltd,68,2,77,05/03/2025,0
-1953,J. C. Securities Limited (2) – Drawdown 4,100,85 / 280 days,8.50%,4.46,0,4.46,13-Mar-25,View,Sell Loan,J. C. Securities Limited,65,3,85,13/03/2025,0
-1990,J. C. Securities Limited (2) – Drawdown 5,100,85 / 251 days,8.50%,3.78,0,3.78,13-Mar-25,View,Sell Loan,J. C. Securities Limited,65,3,85,13/03/2025,0
-2158,J. C. Securities Limited (2) – Drawdown 9,50,85 / 127 days,8.50%,0.47,0,0.47,13-Mar-25,View,Sell Loan,J. C. Securities Limited,65,3,85,13/03/2025,0
-1734,Nash Properties Ltd - Drawdown 3,100,86 / 491 days,8.25%,9.19,0,9.19,14-Mar-25,View,Sell Loan,Nash Properties Ltd,49.4,2,86,14/03/2025,0
-1817,Nash Properties Ltd - Drawdown 5,100,86 / 394 days,8.25%,6.92,0,6.92,14-Mar-25,View,Sell Loan,Nash Properties Ltd,49.4,2,86,14/03/2025,0
-1682,Newfoundland Court Ltd – Drawdown 1,150,119 / 548 days,8.50%,15.1,0,15.1,16-Apr-25,View,Sell Loan,Newfoundland Court Ltd,71.5,2,119,07/04/2025,9
-1978,Ironstone Bridge Ltd – Drawdown 2,100,119 / 292 days,8.50%,3.95,0,3.95,16-Apr-25,View,Sell Loan,Ironstone Bridge Ltd,69.9,1,119,16/04/2025,0
-2117,Newfoundland Court Ltd – Drawdown 3,100,119 / 183 days,8.50%,1.44,0,1.44,16-Apr-25,View,Sell Loan,Newfoundland Court Ltd,71.5,2,119,16/04/2025,0
-1977,Beaumaris Road Limited (3) – Drawdown 1,250,128 / 302 days,7.40%,8.66,0,8.66,25-Apr-25,View,Sell Loan,Beaumaris Road Limited,69.7,1,128,25/04/2025,0
-2208,SC Surbiton Limited (5) – Drawdown 1,250,177 / 182 days,7.75%,0.26,0,0.26,13-Jun-25,View,Sell Loan,SC Surbiton Limited,70,1,177,13/06/2025,0
-2144,Alpine Homes Peterkins Limited (2) - Drawdown 1,250,225 / 273 days,7.50%,2.39,0,2.39,31-Jul-25,View,Sell Loan,Alpine Homes Peterkins Limited,67.8,1,225,31/07/2025,0
-2181,Oakcrest Developments (NW) Limited (2) – Drawdown 1,18.53,253 / 273 days,7.50%,0.03,0.04,0.07,28-Aug-25,View,Sell Loan,Oakcrest Developments,59.8,1,253,28/08/2025,0
-2040,North Meadow Developments Ltd (2) – Drawdown 1,100,331 / 456 days,7.50%,2.51,0,2.51,14-Nov-25,View,Sell Loan,North Meadow Developments Ltd,65.2,1,331,14/11/2025,0
-2006,Badminton Developments Limited (2) – Drawdown 4,100,371 / 525 days,7.50%,3.1,0,3.1,24-Dec-25,View,Sell Loan,Badminton Developments Limited,65,1,371,24/12/2025,0
-2009,Denise Holdings UK Ltd (2) – Drawdown 1,100,401 / 547 days,7.75%,3.03,0,3.03,23-Jan-26,View,Sell Loan,Denise Holdings UK Ltd,65,3,401,23/01/2026,0
-2077,Denise Holdings UK Ltd (2) – Drawdown 3,100,401 / 498 days,7.75%,2.01,0,2.01,23-Jan-26,View,Sell Loan,Denise Holdings UK Ltd,65,3,401,23/01/2026,0
-2113,Denise Holdings UK Ltd (2) – Drawdown 4,50,401 / 470 days,7.75%,0.71,0,0.71,23-Jan-26,View,Sell Loan,Denise Holdings UK Ltd,65,3,401,23/01/2026,0
-2168,Skylark Build Ltd (3) – Tranche A - Drawdown 1,220.34,511 / 546 days,8.00%,1.63,0,1.63,13-May-26,View,Sell Loan,Skylark Build Ltd,48.7,3,511,13/05/2026,0
-2175,Skylark Build Ltd (3) – Tranche A - Drawdown 3,38.58,511 / 545 days,8.00%,0.07,0.21,0.28,13-May-26,View,Sell Loan,Skylark Build Ltd,48.7,3,511,13/05/2026,0
-2186,Skylark Build Ltd (3) – Tranche A - Drawdown 4,27.89,511 / 532 days,8.00%,0.05,0.07,0.12,13-May-26,View,Sell Loan,Skylark Build Ltd,48.7,3,511,13/05/2026,0
+1682,Newfoundland Court Ltd – Drawdown 1,150,77 / 548 days,8.50%,16.66,0,16.66,16-Apr-25,View,Sell Loan,Newfoundland Court Ltd,71.5,2,77,07/04/2025,9
+1734,Nash Properties Ltd - Drawdown 3,100,44 / 491 days,8.25%,10.19,0,10.19,14-Mar-25,View,Sell Loan,Nash Properties Ltd,49.4,2,44,14/03/2025,0
+1808,Witley Homes (Portway) Limited (2) – Drawdown 6,100,13 / 375 days,8.25%,8.18,0,8.18,11-Feb-25,View,Sell Loan,Witley Homes,65,4,13,11/02/2025,0
+1817,Nash Properties Ltd - Drawdown 5,100,44 / 394 days,8.25%,7.89,0,7.89,14-Mar-25,View,Sell Loan,Nash Properties Ltd,49.4,2,44,14/03/2025,0
+1833,Witley Homes (Portway) Limited (2) – Drawdown 7,100,13 / 349 days,8.25%,7.57,0,7.57,11-Feb-25,View,Sell Loan,Witley Homes,65,4,13,11/02/2025,0
+1859,NRP Diggle Ltd (5) – Drawdown 1,200,35 / 334 days,8.25%,13.41,0,13.41,05-Mar-25,View,Sell Loan,NRP Diggle Ltd,68,2,35,05/03/2025,0
+1859,NRP Diggle Ltd (5) – Drawdown 1,4.17,35 / 334 days,8.25%,0.22,0.05,0.27,05-Mar-25,View,Sell Loan,NRP Diggle Ltd,68,2,35,05/03/2025,0
+1942,Witley Homes (Portway) Limited (2) – Drawdown 10,11.13,13 / 258 days,8.25%,0.59,0.01,0.6,11-Feb-25,View,Sell Loan,Witley Homes,65,4,13,11/02/2025,0
+1953,J. C. Securities Limited (2) – Drawdown 4,100,43 / 280 days,8.50%,5.44,0,5.44,13-Mar-25,View,Sell Loan,J. C. Securities Limited,65,3,43,13/03/2025,0
+1969,Alpine Homes Fruit Market Ltd (3) – Drawdown 1,250,30 / 245 days,7.50%,10.87,0,10.87,28-Feb-25,View,Sell Loan,Alpine Homes Fruit Market Ltd,72.3,2,30,28/02/2025,0
+1977,Beaumaris Road Limited (3) – Drawdown 1,250,86 / 302 days,7.40%,10.79,0,10.79,25-Apr-25,View,Sell Loan,Beaumaris Road Limited,69.7,1,86,25/04/2025,0
+1978,Ironstone Bridge Ltd – Drawdown 2,100,77 / 292 days,8.50%,4.93,0,4.93,16-Apr-25,View,Sell Loan,Ironstone Bridge Ltd,69.9,1,77,16/04/2025,0
+1990,J. C. Securities Limited (2) – Drawdown 5,100,43 / 251 days,8.50%,4.76,0,4.76,13-Mar-25,View,Sell Loan,J. C. Securities Limited,65,3,43,13/03/2025,0
+2006,Badminton Developments Limited (2) – Drawdown 4,100,329 / 525 days,7.50%,3.96,0,3.96,24-Dec-25,View,Sell Loan,Badminton Developments Limited,65,2,329,24/12/2025,0
+2009,Denise Holdings UK Ltd (2) – Drawdown 1,100,359 / 547 days,7.75%,3.92,0,3.92,23-Jan-26,View,Sell Loan,Denise Holdings UK Ltd,65,3,359,23/01/2026,0
+2040,North Meadow Developments Ltd (2) – Drawdown 1,100,289 / 456 days,7.50%,3.36,0,3.36,14-Nov-25,View,Sell Loan,North Meadow Developments Ltd,65.2,1,289,14/11/2025,0
+2077,Denise Holdings UK Ltd (2) – Drawdown 3,100,359 / 498 days,7.75%,2.88,0,2.88,23-Jan-26,View,Sell Loan,Denise Holdings UK Ltd,65,3,359,23/01/2026,0
+2083,Witley Homes (Portway) Limited (2) – Drawdown 13,38.87,13 / 147 days,8.25%,1.15,0,1.15,11-Feb-25,View,Sell Loan,Witley Homes,65,4,13,11/02/2025,0
+2113,Denise Holdings UK Ltd (2) – Drawdown 4,50,359 / 470 days,7.75%,1.15,0,1.15,23-Jan-26,View,Sell Loan,Denise Holdings UK Ltd,65,3,359,23/01/2026,0
+2117,Newfoundland Court Ltd – Drawdown 3,100,77 / 183 days,8.50%,2.4,0,2.4,16-Apr-25,View,Sell Loan,Newfoundland Court Ltd,71.5,2,77,16/04/2025,0
+2144,Alpine Homes Peterkins Limited (2) - Drawdown 1,250,183 / 273 days,7.50%,4.5,0,4.5,31-Jul-25,View,Sell Loan,Alpine Homes Peterkins Limited,67.8,1,183,31/07/2025,0
+2158,J. C. Securities Limited (2) – Drawdown 9,50,43 / 127 days,8.50%,0.95,0,0.95,13-Mar-25,View,Sell Loan,J. C. Securities Limited,65,3,43,13/03/2025,0
+2168,Skylark Build Ltd (3) – Tranche A - Drawdown 1,220.34,469 / 546 days,8.00%,3.61,0,3.61,13-May-26,View,Sell Loan,Skylark Build Ltd,48.7,3,469,13/05/2026,0
+2175,Skylark Build Ltd (3) – Tranche A - Drawdown 3,38.58,469 / 545 days,8.00%,0.41,0.21,0.62,13-May-26,View,Sell Loan,Skylark Build Ltd,48.7,3,469,13/05/2026,0
+2181,Oakcrest Developments (NW) Limited (2) – Drawdown 1,18.53,211 / 273 days,7.50%,0.18,0.04,0.22,28-Aug-25,View,Sell Loan,Oakcrest Developments,59.8,1,211,28/08/2025,0
+2186,Skylark Build Ltd (3) – Tranche A - Drawdown 4,27.89,469 / 532 days,8.00%,0.3,0.07,0.37,13-May-26,View,Sell Loan,Skylark Build Ltd,48.7,3,469,13/05/2026,0
+2192,Alpine Homes Fruit Market Ltd (3) – Drawdown 7,28.79,30 / 92 days,7.50%,0.29,0.06,0.35,28-Feb-25,View,Sell Loan,Alpine Homes Fruit Market Ltd,72.3,2,30,28/02/2025,0
+2208,SC Surbiton Limited (5) – Drawdown 1,250,135 / 182 days,7.75%,2.42,0,2.42,13-Jun-25,View,Sell Loan,SC Surbiton Limited,70,1,135,13/06/2025,0
+2209,Badminton Developments Limited (2) – Drawdown 9,21.93,329 / 380 days,7.50%,0.17,0.04,0.21,24-Dec-25,View,Sell Loan,Badminton Developments Limited,65,2,329,24/12/2025,0
+2262,Brooks Road BA Ltd (2) – Drawdown 1,250,272 / 273 days,7.50%,0.05,0,0.05,28-Oct-25,View,Sell Loan,Brooks Road BA Ltd,78,1,272,28/10/2025,0

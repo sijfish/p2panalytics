@@ -1,66 +1,66 @@
 Project,Amount,Received,Interest Rate,Loan Start,Loan End,Status,Expected Interest,Interest Paid,Auto Invest,Bank Reference,Repaid Amount,Outstanding Capital,Gross APR,Net APR,Blended LTV,Loan Parts in Loan,Days to current maturity,Original maturity date,Maturity date extended,URL,Notes
-1-3 Crosby Road South,50,50,7%,19/10/2022,15/01/2024,Paid Back in Full,4.59,4.59,1,9673LIVERPOO,50,0,0.1,0.07,0.7,1,-338,18/10/2023,89,,Developer progressing the refinance process since June. Process has been slower than anticipated but valuation has now been completed and formal terms are currently awaited. 
-12-22 High street,50,50,8.20%,08/06/2023,07/09/2024,Live,5.122465753,5.1,1,9053ESSEX,0,50,10.00%,8.20%,70.00%,1,-102,07/09/2024,0,,
-30-31 Laurie Grove,50,50,7.20%,16/11/2022,25/08/2023,Paid Back in Full,2.79,2.79,1,10700LONDON,50,0,0.1,0.072,0.6691,1,-481,15/11/2023,-82,,
-45-51 Mersey View,50,50,7.50%,21/11/2022,22/11/2023,Paid Back in Full,3.76,3.76,1,10670LIVERPO,50,0,11.00%,10.50%,67.00%,1,-392,20/11/2023,2,https://www.crowdproperty.com/projects/9270,
-Beckside Farm,50,50,10.10%,23/11/2023,07/03/2025,Partially Repaid,6.049960671,1.76,1,13300TOLTHOR,17.08,32.92,0.105,0.075,0.7,1,79,07/03/2025,0,,
-Bolstone Court Farm,50,50,8.10%,20/04/2023,18/04/2024,Paid Back in Full,3.68,3.68,1,6534HEREFORD,50,0,10.05%,10.10%,69.80%,1,-244,24/01/2024,85,https://www.crowdproperty.com/projects/13300,
-Brookhouse Farm,50,50,7.70%,22/09/2022,04/10/2024,Paid Back in Full,7.850000012,7.85,1,9017PRESTON,50,0,10.00%,8.10%,64.80%,2,-75,08/03/2024,210,,
-Brookhouse Farm,50,50,7.70%,20/10/2022,04/10/2024,Paid Back in Full,7.55,7.55,1,9018PRESTON,50,0,10.50%,7.70%,63.50%,2,-75,08/03/2024,210,,
-Castle Drive,50,50,7.30%,23/09/2022,12/01/2024,Paid Back in Full,4.51,4.51,1,5820REIGATE,50,0,10.50%,7.70%,63.50%,1,-341,22/12/2023,21,,
-Clifton House,50,50,10.10%,23/11/2023,26/01/2025,Live,5.949315068,5.05,1,14563WOLVERH,0,50,0.095,0.073,0.7,1,39,26/01/2025,0,,
-Cliveland Street,50,50,10.50%,01/02/2024,20/03/2025,Live,5.954794521,0,1,13642BIRMING,0,50,10.50%,10.10%,70.00%,1,92,20/03/2025,0,https://www.crowdproperty.com/projects/14563,
-Dart Inn,35,35,10%,28/09/2023,08/12/2024,Partially Repaid,4.1330148,0.6,1,12339BURTON-,5.56,29.44,11.00%,10.50%,70.00%,1,-10,08/12/2024,0,https://www.crowdproperty.com/projects/13642,
-Development Site at Holly Farm,50,50,7.50%,12/10/2022,01/08/2022,Partially Repaid,2.522047722,1.94,1,6206HALSALL,11.2,38.8,9.50%,7.50%,57.00%,1,-870,01/08/2022,0,https://www.crowdproperty.com/projects/6206,"Works are now completed on site, and we are now waiting on the sales to go through in order to pay down the loan. We have interested parties on 5 out of 8 of the plots, and once these sales have gone through, you will then receive partial repayments of capital and interest. "
-East Hookers Farm,50,50,10.10%,08/02/2024,10/07/2024,Paid Back in Full,2.23,2.23,1,14897HAYWARD,50,0,10.50%,10.10%,65.28%,,-161,08/06/2024,32,https://www.crowdproperty.com/projects/14897,
-Enfield Avenue,50,50,7.70%,28/09/2022,08/11/2023,Live,4.293013699,0,1,9502GRIMSBY,0,50,10.00%,7.70%,70.00%,1,-406,08/11/2023,0,,
-Flat 4,50,50,7.40%,30/09/2022,09/10/2023,Paid Back in Full,4.1,4.1,1,7063MANCHEST,50,0,0.1,0.074,0.7,1,-436,29/06/2023,102,,"Nearing completion, with only the final walls left to be painted. Refinance process is pregressing but blocked by an outstanding land registry issue."
-Former radio station,50,50,7.50%,29/09/2022,06/03/2024,Paid Back in Full,5.46,5.46,1,7185SOMERTON,50,0,0.095,0.075,0.65,1,-287,15/02/2024,20,,
-Former Theatre Bar,50,50,10.10%,21/09/2023,27/01/2025,Live,6.848630137,0,1,13517STAFFOR,0,50,10.50%,10.10%,64.13%,1,40,27/01/2025,0,https://www.crowdproperty.com/projects/13517,
-Gainsborough Riverside Gateway,50,50,7.60%,29/09/2022,12/01/2023,Live,1.103561644,0,1,6110GAINSBOR,0,50,9.50%,7.60%,49.00%,1,-706,12/01/2023,0,https://www.crowdproperty.com/projects/6110,Borrower discussing refinance with new lender which should repay the loan in full.
-Glendower Guest House,20,20,10.50%,26/10/2023,07/11/2024,Paid Back in Full,1.45,1.45,1,13567MARKET,20,0,11.00%,10.50%,63.40%,1,-41,10/11/2024,-3,https://www.crowdproperty.com/projects/13567,
-Hazelwood,50,50,7.10%,14/10/2022,30/12/2023,Live,4.308630137,0,1,9289WALSALL,0,50,9.50%,7.10%,51.20%,1,-354,30/12/2023,0,,
-Hollyfold Farm,50,50,10.10%,30/11/2023,29/08/2024,Paid Back in Full,2.68,2.68,1,12306ORMSKIR,50,0,10.50%,10.10%,60.70%,1,-111,04/12/2024,-97,https://www.crowdproperty.com/projects/12306,
-Home Farm,50,50,7.20%,23/09/2022,22/12/2023,Live,4.519726027,4.5,1,10195LUTTERW,0,50,10.00%,7.20%,70.00%,3,-362,22/12/2023,0,,
-Home Farm,50,50,7.20%,13/10/2022,22/12/2023,Live,4.300273973,0,1,10664LUTTERW,0,50,10.00%,7.20%,70.00%,3,-362,22/12/2023,0,,
-Home Farm,50,50,7.20%,15/12/2022,22/12/2023,Live,3.67890411,0,1,10667LUTTERW,0,50,10.00%,7.20%,70.00%,3,-362,22/12/2023,0,,
-Hope All Saints Garden Centre,50,50,7.20%,20/10/2022,07/11/2023,Paid Back in Full,3.87,3.87,1,9087NEWROMN,50,0,0.095,0.072,0.667,1,-407,13/10/2023,25,https://www.crowdproperty.com/account/loans/591/pledge/659824,
-Land Adjacent Pendre,50,50,7.70%,03/03/2023,30/12/2023,Partially Repaid,2.615205526,0,1,9695ABERYSTW,9.09,40.91,9.50%,7.70%,70.00%,1,-354,30/12/2023,0,,
-Land Adjacent to Fairlight Terrace,50,50,7.70%,28/09/2022,27/03/2024,Live,5.769726027,0,1,10556NEWROM,0,50,9.50%,7.70%,69.92%,3,-266,27/03/2024,0,,
-Land Adjacent to Fairlight Terrace,50,50,7.70%,10/10/2022,27/03/2024,Live,5.643150685,0,1,10888NEWROM,0,50,9.50%,7.70%,69.92%,3,-266,27/03/2024,0,,
-Land Adjacent to Fairlight Terrace,50,50,7.70%,17/10/2022,27/03/2024,Live,5.569315068,0,1,10889NEWROM,0,50,9.50%,7.70%,69.92%,3,-266,27/03/2024,0,,
-Land At 18 Dutton Close,19,19,10%,07/12/2023,04/05/2024,Partially Repaid,0.9804557658,0.41,1,7175MARKETD,5.12,13.88,9.50%,10.00%,70.00%,1,-228,04/05/2024,0,https://www.crowdproperty.com/projects/7175," May I enquire as to why the  interest rate paid by borrower (9.5%) is lower than the interest rate paid to lenders (10%)?
+1-3 Crosby Road South,50,50,7%,19/10/2022,15/01/2024,Paid Back in Full,4.59,4.59,1,9673LIVERPOO,50,0,0.1,0.07,0.7,1,-380,18/10/2023,89,,Developer progressing the refinance process since June. Process has been slower than anticipated but valuation has now been completed and formal terms are currently awaited. 
+12-22 High street,50,50,8.20%,08/06/2023,07/09/2024,Live,5.122465753,5.1,1,9053ESSEX,0,50,10.00%,8.20%,70.00%,1,-144,07/09/2024,0,,
+30-31 Laurie Grove,50,50,7.20%,16/11/2022,25/08/2023,Paid Back in Full,2.79,2.79,1,10700LONDON,50,0,0.1,0.072,0.6691,1,-523,15/11/2023,-82,,
+45-51 Mersey View,50,50,7.50%,21/11/2022,22/11/2023,Paid Back in Full,3.76,3.76,1,10670LIVERPO,50,0,11.00%,10.50%,67.00%,1,-434,20/11/2023,2,https://www.crowdproperty.com/projects/9270,
+Beckside Farm,50,50,10.10%,23/11/2023,07/03/2025,Partially Repaid,6.049960671,1.76,1,13300TOLTHOR,17.08,32.92,0.105,0.075,0.7,1,37,07/03/2025,0,,
+Bolstone Court Farm,50,50,8.10%,20/04/2023,18/04/2024,Paid Back in Full,3.68,3.68,1,6534HEREFORD,50,0,10.05%,10.10%,69.80%,1,-286,24/01/2024,85,https://www.crowdproperty.com/projects/13300,
+Brookhouse Farm,50,50,7.70%,22/09/2022,04/10/2024,Paid Back in Full,7.850000012,7.85,1,9017PRESTON,50,0,10.00%,8.10%,64.80%,2,-117,08/03/2024,210,,
+Brookhouse Farm,50,50,7.70%,20/10/2022,04/10/2024,Paid Back in Full,7.55,7.55,1,9018PRESTON,50,0,10.50%,7.70%,63.50%,2,-117,08/03/2024,210,,
+Castle Drive,50,50,7.30%,23/09/2022,12/01/2024,Paid Back in Full,4.51,4.51,1,5820REIGATE,50,0,10.50%,7.70%,63.50%,1,-383,22/12/2023,21,,
+Clifton House,50,50,10.10%,23/11/2023,26/01/2025,Live,5.949315068,5.05,1,14563WOLVERH,0,50,0.095,0.073,0.7,1,-3,26/01/2025,0,,
+Cliveland Street,50,50,10.50%,01/02/2024,20/03/2025,Live,5.954794521,0,1,13642BIRMING,0,50,10.50%,10.10%,70.00%,1,50,20/03/2025,0,https://www.crowdproperty.com/projects/14563,
+Dart Inn,35,35,10%,28/09/2023,08/12/2024,Partially Repaid,4.1330148,0.6,1,12339BURTON-,5.56,29.44,11.00%,10.50%,70.00%,1,-52,08/12/2024,0,https://www.crowdproperty.com/projects/13642,
+Development Site at Holly Farm,50,50,7.50%,12/10/2022,01/08/2022,Partially Repaid,2.522047722,1.94,1,6206HALSALL,11.2,38.8,9.50%,7.50%,57.00%,1,-912,01/08/2022,0,https://www.crowdproperty.com/projects/6206,"Works are now completed on site, and we are now waiting on the sales to go through in order to pay down the loan. We have interested parties on 5 out of 8 of the plots, and once these sales have gone through, you will then receive partial repayments of capital and interest. "
+East Hookers Farm,50,50,10.10%,08/02/2024,10/07/2024,Paid Back in Full,2.23,2.23,1,14897HAYWARD,50,0,10.50%,10.10%,65.28%,,-203,08/06/2024,32,https://www.crowdproperty.com/projects/14897,
+Enfield Avenue,50,50,7.70%,28/09/2022,08/11/2023,Live,4.293013699,0,1,9502GRIMSBY,0,50,10.00%,7.70%,70.00%,1,-448,08/11/2023,0,,
+Flat 4,50,50,7.40%,30/09/2022,09/10/2023,Paid Back in Full,4.1,4.1,1,7063MANCHEST,50,0,0.1,0.074,0.7,1,-478,29/06/2023,102,,"Nearing completion, with only the final walls left to be painted. Refinance process is pregressing but blocked by an outstanding land registry issue."
+Former radio station,50,50,7.50%,29/09/2022,06/03/2024,Paid Back in Full,5.46,5.46,1,7185SOMERTON,50,0,0.095,0.075,0.65,1,-329,15/02/2024,20,,
+Former Theatre Bar,50,50,10.10%,21/09/2023,27/01/2025,Live,6.848630137,0,1,13517STAFFOR,0,50,10.50%,10.10%,64.13%,1,-2,27/01/2025,0,https://www.crowdproperty.com/projects/13517,
+Gainsborough Riverside Gateway,50,50,7.60%,29/09/2022,12/01/2023,Live,1.103561644,0,1,6110GAINSBOR,0,50,9.50%,7.60%,49.00%,1,-748,12/01/2023,0,https://www.crowdproperty.com/projects/6110,Borrower discussing refinance with new lender which should repay the loan in full.
+Glendower Guest House,20,20,10.50%,26/10/2023,07/11/2024,Paid Back in Full,1.45,1.45,1,13567MARKET,20,0,11.00%,10.50%,63.40%,1,-83,10/11/2024,-3,https://www.crowdproperty.com/projects/13567,
+Hazelwood,50,50,7.10%,14/10/2022,30/12/2023,Live,4.308630137,0,1,9289WALSALL,0,50,9.50%,7.10%,51.20%,1,-396,30/12/2023,0,,
+Hollyfold Farm,50,50,10.10%,30/11/2023,29/08/2024,Paid Back in Full,2.68,2.68,1,12306ORMSKIR,50,0,10.50%,10.10%,60.70%,1,-153,04/12/2024,-97,https://www.crowdproperty.com/projects/12306,
+Home Farm,50,50,7.20%,23/09/2022,22/12/2023,Live,4.519726027,4.5,1,10195LUTTERW,0,50,10.00%,7.20%,70.00%,3,-404,22/12/2023,0,,
+Home Farm,50,50,7.20%,13/10/2022,22/12/2023,Live,4.300273973,0,1,10664LUTTERW,0,50,10.00%,7.20%,70.00%,3,-404,22/12/2023,0,,
+Home Farm,50,50,7.20%,15/12/2022,22/12/2023,Live,3.67890411,0,1,10667LUTTERW,0,50,10.00%,7.20%,70.00%,3,-404,22/12/2023,0,,
+Hope All Saints Garden Centre,50,50,7.20%,20/10/2022,07/11/2023,Paid Back in Full,3.87,3.87,1,9087NEWROMN,50,0,0.095,0.072,0.667,1,-449,13/10/2023,25,https://www.crowdproperty.com/account/loans/591/pledge/659824,
+Land Adjacent Pendre,50,50,7.70%,03/03/2023,30/12/2023,Partially Repaid,2.615205526,0,1,9695ABERYSTW,9.09,40.91,9.50%,7.70%,70.00%,1,-396,30/12/2023,0,,
+Land Adjacent to Fairlight Terrace,50,50,7.70%,28/09/2022,27/03/2024,Live,5.769726027,0,1,10556NEWROM,0,50,9.50%,7.70%,69.92%,3,-308,27/03/2024,0,,
+Land Adjacent to Fairlight Terrace,50,50,7.70%,10/10/2022,27/03/2024,Live,5.643150685,0,1,10888NEWROM,0,50,9.50%,7.70%,69.92%,3,-308,27/03/2024,0,,
+Land Adjacent to Fairlight Terrace,50,50,7.70%,17/10/2022,27/03/2024,Live,5.569315068,0,1,10889NEWROM,0,50,9.50%,7.70%,69.92%,3,-308,27/03/2024,0,,
+Land At 18 Dutton Close,19,19,10%,07/12/2023,04/05/2024,Partially Repaid,0.9804557658,0.41,1,7175MARKETD,5.12,13.88,9.50%,10.00%,70.00%,1,-270,04/05/2024,0,https://www.crowdproperty.com/projects/7175," May I enquire as to why the  interest rate paid by borrower (9.5%) is lower than the interest rate paid to lenders (10%)?
 
 "
-Land at 2 Norwich Road,50,50,10.30%,30/08/2023,28/02/2025,Partially Repaid,7.014069995,1.8,1,13278ATTLEBO,16.35,33.65,10.50%,10.30%,70.00%,2,72,28/02/2025,0,,
-Land at 2 Norwich Road,50,50,10.30%,21/12/2023,28/02/2025,Partially Repaid,5.420865545,1.28,1,14088ATTLEBO,16.35,33.65,10.50%,10.30%,70.00%,2,72,28/02/2025,0,https://www.crowdproperty.com/projects/14088,
-Land at Birkby Lane,50,50,10.50%,25/01/2024,13/12/2025,Live,9.913287671,4.39,1,14760BAILIFF,0,50,13.00%,10.50%,70.00%,1,360,13/12/2025,0,https://www.crowdproperty.com/projects/14760,
-Land at Bush Close,50,50,8.50%,27/04/2023,02/09/2024,Paid Back in Full,5.84,5.84,1,10578ESSEX,50,0,10.00%,8.50%,69.99%,1,-107,09/08/2024,24,,
-Land at Hopcott Road,25,25,6.90%,07/09/2022,14/03/2023,Paid Back in Full,0.89,0.89,1,10220SOMERSE,25,0,0.1,0.069,0.625,2,-645,14/03/2023,0,,
-Land at Hopcott Road,50,50,7%,22/09/2022,14/03/2023,Paid Back in Full,1.67,1.67,1,8627MINEHEAD,50,0,0.09,0.07,0.698,2,-645,14/03/2023,0,,
-Land North Of The Brea Inn,50,50,7.30%,20/10/2022,22/09/2023,Paid Back in Full,2.98,2.98,1,9317CORNWALL,50,0,0.1,0.073,0.7,1,-453,30/08/2023,23,https://www.crowdproperty.com/projects/10130,
-Land Off Upper Quarry Road,50,50,7.70%,29/09/2022,31/03/2023,Paid Back in Full,1.45,1.45,1,6478HUDDERSF,50,0,0.1,0.077,0.642,1,-628,31/03/2023,0,,
-Land west of Horsbrugh Ford,50,50,10.30%,23/10/2023,13/12/2024,Live,5.897808219,0,1,10130CRADRON,0,50,10.50%,10.30%,70.00%,1,-5,23/12/2024,-10,,
-Land within curtilage of West Winds,19,19,10.10%,11/12/2023,29/08/2024,Live,1.382731507,0,1,13442BLACKWO,0,19,10.50%,10.10%,65.90%,1,-111,29/08/2024,0,https://www.crowdproperty.com/projects/13442,
-Lodge Farm,50,50,7.20%,31/10/2022,25/09/2023,Paid Back in Full,3.25,3.25,1,11068SOLIHUL,50,0,0.1,0.072,0.75,1,-450,30/10/2023,-35,,
-Plots 1-3,50,50,7%,22/09/2022,16/06/2024,Live,6.079452055,0,1,9782CALSTOCK,0,50,10.00%,7.00%,58.40%,2,-185,16/06/2024,0,https://www.crowdproperty.com/projects/11621,
-Plots 1-3,50,50,8%,20/04/2023,16/06/2024,Live,4.646575342,0,1,9785CALSTOCK,0,50,10.00%,8.00%,58.40%,2,-185,16/06/2024,0,,
-Plots 32-68 and 70-71,50,50,6.90%,29/09/2022,14/03/2023,Paid Back in Full,1.58,1.58,1,10331MINEHEA,50,0,0.1,0.069,0.625,1,-645,14/03/2023,0,,
-Red Lion,50,50,6.80%,03/11/2022,25/09/2024,Paid Back in Full,6.82,6.82,1,9192ATHERSTO,50,0,9.50%,6.80%,38.40%,1,-84,02/05/2024,146,,
-Roseangle,50,50,7.30%,09/09/2022,08/03/2024,Live,5.42,5.4,1,6032DUNDEE,0,50,9.25%,7.30%,70.00%,2,-285,08/03/2024,0,,
-Roseangle,50,50,7.30%,07/10/2022,08/03/2024,Live,5.19,0,1,7498DUNDEE,0,50,9.25%,7.30%,70.00%,2,-285,08/03/2024,0,,
-Samoya,50,50,7.50%,29/09/2022,04/12/2023,Live,4.438356164,0,1,9604DUNBAR,0,50,10.00%,7.50%,69.90%,1,-380,04/12/2023,0,,
-Selcroft Road,50,50,6.90%,13/10/2022,11/08/2023,Paid Back in Full,2.440000045,2.44,1,10227LONDON,50,0,0.095,0.069,0.699,1,-495,11/08/2023,0,,
-Simplicity,50,50,6.40%,27/10/2022,20/02/2024,Paid Back in Full,4.58,4.58,1,9171SHOREHAM,50,0,0.085,0.064,0.477,1,-302,26/10/2023,117,https://www.crowdproperty.com/account/loans/577/pledge/632697,"The works on site have been completed, and there has been a delay in the loan repayment process. This is due to some delays at the land registry, which have been resolved recently. The developer is now working on completing the Redbook Valuation for the lender they are refinancing to."
-St. Dunstans Avenue,50,50,7%,12/09/2022,10/06/2024,Paid Back in Full,6.64,6.64,1,9481LONDON,50,0,9.00%,7.00%,70.00%,2,-191,07/12/2023,186,https://www.crowdproperty.com/account/loans/603/pledge/664548,
-St. Dunstans Avenue,50,50,7%,25/10/2022,10/06/2024,Paid Back in Full,6.23,6.23,1,10054LONDON,50,0,9.00%,7.00%,70.00%,2,-191,07/12/2023,186,,
-Sunningdale,50,50,10.50%,12/03/2024,08/06/2025,Live,6.524657534,3.95,1,15386NORWICH,0,50,12.00%,10.50%,70.00%,1,172,08/06/2025,0,https://www.crowdproperty.com/projects/15386,
-The Caledonia Pub,50,50,6.50%,14/09/2022,28/11/2023,Paid Back in Full,4.14,4.14,1,9429ASHTONU,50,0,0.09,0.065,0.7,2,-386,13/09/2023,76,https://www.crowdproperty.com/projects/10298,"Sales for 4 units expected to complete in the coming week, development of other 3 units is in final stages (inspections, building control etc.). Exploring refinance of the remainder of the loan."
-The Caledonia Pub,50,50,6.50%,31/10/2022,28/11/2023,Paid Back in Full,3.73,3.73,1,10521ASHTON,50,0,0.09,0.065,0.7,2,-386,13/09/2023,76,https://www.crowdproperty.com/account/loans/590/pledge/654893,"Sale agreed to a Housing Association, but an issue with riparian rights requires update and amendment to the land registry certificate which is pending with the land registry."
-The Villa,50,50,7.20%,23/09/2022,22/09/2023,Partially Repaid,3.768374518,2.04,1,10298SCARBOR,25.99,24.01,9.50%,7.20%,69.94%,2,-453,22/09/2023,0,,
-The Villa,50,50,7.20%,14/10/2022,22/09/2023,Partially Repaid,3.548933206,1.92,1,10819SCARBOR,25.99,24.01,9.50%,7.20%,69.94%,2,-453,22/09/2023,0,,
-Warleys Lane,50,50,6.70%,09/09/2022,08/09/2023,Live,3.378356164,3.36,1,10136WESTON-,0,50,9.50%,6.70%,70.00%,1,-467,08/09/2023,0,https://www.crowdproperty.com/account/loans/564/pledge/627111,"The borrower has received an offer from the Housing Association, however whilst undergoing due diligence the Housing Associations solicitors have identified a gap in the title which requires the borrower to purchase the adjacent piece of land in order to comply with South West Waters drainage strategy. This purchase is in legals and progressing well, once purchased they will be able to sell the site.
+Land at 2 Norwich Road,50,50,10.30%,30/08/2023,28/02/2025,Partially Repaid,7.014069995,1.8,1,13278ATTLEBO,16.35,33.65,10.50%,10.30%,70.00%,2,30,28/02/2025,0,,
+Land at 2 Norwich Road,50,50,10.30%,21/12/2023,28/02/2025,Partially Repaid,5.420865545,1.28,1,14088ATTLEBO,16.35,33.65,10.50%,10.30%,70.00%,2,30,28/02/2025,0,https://www.crowdproperty.com/projects/14088,
+Land at Birkby Lane,50,50,10.50%,25/01/2024,13/12/2025,Live,9.913287671,4.39,1,14760BAILIFF,0,50,13.00%,10.50%,70.00%,1,318,13/12/2025,0,https://www.crowdproperty.com/projects/14760,
+Land at Bush Close,50,50,8.50%,27/04/2023,02/09/2024,Paid Back in Full,5.84,5.84,1,10578ESSEX,50,0,10.00%,8.50%,69.99%,1,-149,09/08/2024,24,,
+Land at Hopcott Road,25,25,6.90%,07/09/2022,14/03/2023,Paid Back in Full,0.89,0.89,1,10220SOMERSE,25,0,0.1,0.069,0.625,2,-687,14/03/2023,0,,
+Land at Hopcott Road,50,50,7%,22/09/2022,14/03/2023,Paid Back in Full,1.67,1.67,1,8627MINEHEAD,50,0,0.09,0.07,0.698,2,-687,14/03/2023,0,,
+Land North Of The Brea Inn,50,50,7.30%,20/10/2022,22/09/2023,Paid Back in Full,2.98,2.98,1,9317CORNWALL,50,0,0.1,0.073,0.7,1,-495,30/08/2023,23,https://www.crowdproperty.com/projects/10130,
+Land Off Upper Quarry Road,50,50,7.70%,29/09/2022,31/03/2023,Paid Back in Full,1.45,1.45,1,6478HUDDERSF,50,0,0.1,0.077,0.642,1,-670,31/03/2023,0,,
+Land west of Horsbrugh Ford,50,50,10.30%,23/10/2023,13/12/2024,Live,5.897808219,0,1,10130CRADRON,0,50,10.50%,10.30%,70.00%,1,-47,13/12/2024,0,,
+Land within curtilage of West Winds,19,19,10.10%,11/12/2023,29/08/2024,Live,1.382731507,0,1,13442BLACKWO,0,19,10.50%,10.10%,65.90%,1,-153,29/08/2024,0,https://www.crowdproperty.com/projects/13442,
+Lodge Farm,50,50,7.20%,31/10/2022,25/09/2023,Paid Back in Full,3.25,3.25,1,11068SOLIHUL,50,0,0.1,0.072,0.75,1,-492,30/10/2023,-35,,
+Plots 1-3,50,50,7%,22/09/2022,16/06/2024,Live,6.079452055,0,1,9782CALSTOCK,0,50,10.00%,7.00%,58.40%,2,-227,16/06/2024,0,https://www.crowdproperty.com/projects/11621,
+Plots 1-3,50,50,8%,20/04/2023,16/06/2024,Live,4.646575342,0,1,9785CALSTOCK,0,50,10.00%,8.00%,58.40%,2,-227,16/06/2024,0,,
+Plots 32-68 and 70-71,50,50,6.90%,29/09/2022,14/03/2023,Paid Back in Full,1.58,1.58,1,10331MINEHEA,50,0,0.1,0.069,0.625,1,-687,14/03/2023,0,,
+Red Lion,50,50,6.80%,03/11/2022,25/09/2024,Paid Back in Full,6.82,6.82,1,9192ATHERSTO,50,0,9.50%,6.80%,38.40%,1,-126,02/05/2024,146,,
+Roseangle,50,50,7.30%,09/09/2022,08/03/2024,Live,5.42,5.4,1,6032DUNDEE,0,50,9.25%,7.30%,70.00%,2,-327,08/03/2024,0,,
+Roseangle,50,50,7.30%,07/10/2022,08/03/2024,Live,5.19,0,1,7498DUNDEE,0,50,9.25%,7.30%,70.00%,2,-327,08/03/2024,0,,
+Samoya,50,50,7.50%,29/09/2022,04/12/2023,Live,4.438356164,0,1,9604DUNBAR,0,50,10.00%,7.50%,69.90%,1,-422,04/12/2023,0,,
+Selcroft Road,50,50,6.90%,13/10/2022,11/08/2023,Paid Back in Full,2.440000045,2.44,1,10227LONDON,50,0,0.095,0.069,0.699,1,-537,11/08/2023,0,,
+Simplicity,50,50,6.40%,27/10/2022,20/02/2024,Paid Back in Full,4.58,4.58,1,9171SHOREHAM,50,0,0.085,0.064,0.477,1,-344,26/10/2023,117,https://www.crowdproperty.com/account/loans/577/pledge/632697,"The works on site have been completed, and there has been a delay in the loan repayment process. This is due to some delays at the land registry, which have been resolved recently. The developer is now working on completing the Redbook Valuation for the lender they are refinancing to."
+St. Dunstans Avenue,50,50,7%,12/09/2022,10/06/2024,Paid Back in Full,6.64,6.64,1,9481LONDON,50,0,9.00%,7.00%,70.00%,2,-233,07/12/2023,186,https://www.crowdproperty.com/account/loans/603/pledge/664548,
+St. Dunstans Avenue,50,50,7%,25/10/2022,10/06/2024,Paid Back in Full,6.23,6.23,1,10054LONDON,50,0,9.00%,7.00%,70.00%,2,-233,07/12/2023,186,,
+Sunningdale,50,50,10.50%,12/03/2024,08/06/2025,Live,6.524657534,3.95,1,15386NORWICH,0,50,12.00%,10.50%,70.00%,1,130,08/06/2025,0,https://www.crowdproperty.com/projects/15386,
+The Caledonia Pub,50,50,6.50%,14/09/2022,28/11/2023,Paid Back in Full,4.14,4.14,1,9429ASHTONU,50,0,0.09,0.065,0.7,2,-428,13/09/2023,76,https://www.crowdproperty.com/projects/10298,"Sales for 4 units expected to complete in the coming week, development of other 3 units is in final stages (inspections, building control etc.). Exploring refinance of the remainder of the loan."
+The Caledonia Pub,50,50,6.50%,31/10/2022,28/11/2023,Paid Back in Full,3.73,3.73,1,10521ASHTON,50,0,0.09,0.065,0.7,2,-428,13/09/2023,76,https://www.crowdproperty.com/account/loans/590/pledge/654893,"Sale agreed to a Housing Association, but an issue with riparian rights requires update and amendment to the land registry certificate which is pending with the land registry."
+The Villa,50,50,7.20%,23/09/2022,22/09/2023,Partially Repaid,3.768374518,2.04,1,10298SCARBOR,25.99,24.01,9.50%,7.20%,69.94%,2,-495,22/09/2023,0,,
+The Villa,50,50,7.20%,14/10/2022,22/09/2023,Partially Repaid,3.548933206,1.92,1,10819SCARBOR,25.99,24.01,9.50%,7.20%,69.94%,2,-495,22/09/2023,0,,
+Warleys Lane,50,50,6.70%,09/09/2022,08/09/2023,Live,3.378356164,3.36,1,10136WESTON-,0,50,9.50%,6.70%,70.00%,1,-509,08/09/2023,0,https://www.crowdproperty.com/account/loans/564/pledge/627111,"The borrower has received an offer from the Housing Association, however whilst undergoing due diligence the Housing Associations solicitors have identified a gap in the title which requires the borrower to purchase the adjacent piece of land in order to comply with South West Waters drainage strategy. This purchase is in legals and progressing well, once purchased they will be able to sell the site.
 "
-Yorkshire Coast College,50,50,7.60%,08/09/2022,10/09/2023,Live,3.831232877,0,1,8715SCARBORO,0,50,10.00%,7.60%,61.50%,1,-465,10/09/2023,0,https://www.crowdproperty.com/account/loans/566/pledge/618492,"After a thorough review of all viable options, the administrators advised that the property will be better sold now, rather than at some point in the future. They did not believe that holding on to the Property would achieve a substantially higher price in the next 12 months. 
+Yorkshire Coast College,50,50,7.60%,08/09/2022,10/09/2023,Live,3.831232877,0,1,8715SCARBORO,0,50,10.00%,7.60%,61.50%,1,-507,10/09/2023,0,https://www.crowdproperty.com/account/loans/566/pledge/618492,"After a thorough review of all viable options, the administrators advised that the property will be better sold now, rather than at some point in the future. They did not believe that holding on to the Property would achieve a substantially higher price in the next 12 months. 
 
 "
